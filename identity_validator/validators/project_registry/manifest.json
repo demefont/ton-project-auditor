@@ -1,0 +1,7 @@
+{
+  "id": "project_registry",
+  "name": "Project Registry Collector",
+  "kind": "collector",
+  "dependencies": [],
+  "description": "Builds a curated registry from local recorded project cases."
+}

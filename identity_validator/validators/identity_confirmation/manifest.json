@@ -1,0 +1,7 @@
+{
+  "id": "identity_confirmation",
+  "name": "Identity Confirmation",
+  "kind": "validator",
+  "dependencies": ["github_repo", "telegram_channel", "address_signal", "project_registry"],
+  "description": "Confirms that the selected candidate matches the requested project and separates weak identity from incomplete external evidence."
+}

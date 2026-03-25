@@ -1,0 +1,552 @@
+{
+  "tree": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
+      "type": "blob"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/docs_update.yml",
+      "type": "blob"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.yml",
+      "type": "blob"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/generic.yml",
+      "type": "blob"
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "type": "blob"
+    },
+    {
+      "path": ".github/workflows/publish.yml",
+      "type": "blob"
+    },
+    {
+      "path": ".github/workflows/qa.yaml",
+      "type": "blob"
+    },
+    {
+      "path": ".github/workflows/reward-merged-prs.yml",
+      "type": "blob"
+    },
+    {
+      "path": ".github/workflows/reward.yml",
+      "type": "blob"
+    },
+    {
+      "path": ".gitignore",
+      "type": "blob"
+    },
+    {
+      "path": ".yarnrc.yml",
+      "type": "blob"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "type": "blob"
+    },
+    {
+      "path": "LICENSE",
+      "type": "blob"
+    },
+    {
+      "path": "README.md",
+      "type": "blob"
+    },
+    {
+      "path": "contributing.md",
+      "type": "blob"
+    },
+    {
+      "path": "eslint.config.js",
+      "type": "blob"
+    },
+    {
+      "path": "example/.gitignore",
+      "type": "blob"
+    },
+    {
+      "path": "example/.prettierignore",
+      "type": "blob"
+    },
+    {
+      "path": "example/.prettierrc",
+      "type": "blob"
+    },
+    {
+      "path": "example/.snapshot/1748254056557.json",
+      "type": "blob"
+    },
+    {
+      "path": "example/README.md",
+      "type": "blob"
+    },
+    {
+      "path": "example/blueprint.config.ts",
+      "type": "blob"
+    },
+    {
+      "path": "example/compilables/Counter.compile.ts",
+      "type": "blob"
+    },
+    {
+      "path": "example/contract.abi.json",
+      "type": "blob"
+    },
+    {
+      "path": "example/contracts/counter.fc",
+      "type": "blob"
+    },
+    {
+      "path": "example/contracts/imports/stdlib.fc",
+      "type": "blob"
+    },
+    {
+      "path": "example/gas-report.json",
+      "type": "blob"
+    },
+    {
+      "path": "example/jest.config.ts",
+      "type": "blob"
+    },
+    {
+      "path": "example/package.json",
+      "type": "blob"
+    },
+    {
+      "path": "example/scripts/deployCounter.ts",
+      "type": "blob"
+    },
+    {
+      "path": "example/scripts/incrementCounter.ts",
+      "type": "blob"
+    },
+    {
+      "path": "example/tests/Counter.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "example/tsconfig.json",
+      "type": "blob"
+    },
+    {
+      "path": "example/wrappers/Counter.ts",
+      "type": "blob"
+    },
+    {
+      "path": "example/yarn.lock",
+      "type": "blob"
+    },
+    {
+      "path": "jest.config.js",
+      "type": "blob"
+    },
+    {
+      "path": "logo.svg",
+      "type": "blob"
+    },
+    {
+      "path": "package.json",
+      "type": "blob"
+    },
+    {
+      "path": "src/build.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/Runner.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/build.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/cli.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/constants.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/convert.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/create.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/help.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/pack.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/rename.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/rename.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/run.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/set.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/snapshot.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/test.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/cli/verify.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/CompilerConfig.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/SourceSnapshot.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/SupportedLang.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/compile.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/func/compile.func.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/func/config.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/tact/OverwritableVirtualFileSystem.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/tact/compile.tact.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/tact/config.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/tolk/compile.tolk.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/compile/tolk/config.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/config/Config.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/config/CustomNetwork.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/config/Plugin.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/config/tact.config.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/config/utils.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/index.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/jest/CoverageReporter.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/jest/coverageSetup.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/Explorer.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/Network.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/NetworkProvider.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/NetworkVersion.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/constants.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/createNetworkProvider.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/send/DeeplinkProvider.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/send/MnemonicProvider.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/send/SendProvider.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/send/TonConnectProvider.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/send/wallets.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/storage/FSStorage.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/storage/Storage.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/network/utils.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/paths.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/template.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/template.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/common/compilables/compile.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/common/contracts/imports/stdlib.fc.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/counter/contracts/contract.fc.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/counter/scripts/deploy.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/counter/scripts/increment.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/counter/tests/spec.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/counter/wrappers/wrapper.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/empty/contracts/contract.fc.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/empty/scripts/deploy.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/empty/tests/spec.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/empty/wrappers/wrapper.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/legacy/wrappers/compile.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/not-separated-common/contracts/imports/stdlib.fc.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/func/not-separated-common/wrappers/compile.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tact/counter/contracts/contract.tact.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tact/counter/scripts/deploy.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tact/counter/scripts/increment.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tact/counter/tests/spec.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tact/empty/contracts/contract.tact.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tact/empty/scripts/deploy.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tact/empty/tests/spec.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/common/compilables/compile.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/counter/contracts/contract.tolk.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/counter/scripts/deploy.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/counter/scripts/increment.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/counter/scripts/reset.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/counter/tests/spec.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/counter/wrappers/wrapper.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/empty/contracts/contract.tolk.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/empty/scripts/deploy.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/empty/tests/spec.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/empty/wrappers/wrapper.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/templates/tolk/not-separated-common/wrappers/compile.ts.template",
+      "type": "blob"
+    },
+    {
+      "path": "src/types/file.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/ui/InquirerUIProvider.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/ui/UIProvider.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/utils/file.utils.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/utils/index.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/utils/object.utils.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/utils/selection.utils.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/utils/string.utils.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/utils/timer.utils.ts",
+      "type": "blob"
+    },
+    {
+      "path": "src/utils/ton.utils.ts",
+      "type": "blob"
+    },
+    {
+      "path": "tonconnect/logo.png",
+      "type": "blob"
+    },
+    {
+      "path": "tonconnect/manifest.json",
+      "type": "blob"
+    },
+    {
+      "path": "tsconfig.json",
+      "type": "blob"
+    },
+    {
+      "path": "yarn.lock",
+      "type": "blob"
+    }
+  ]
+}

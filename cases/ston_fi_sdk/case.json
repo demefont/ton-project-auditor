@@ -1,0 +1,12 @@
+{
+  "case_id": "ston_fi_sdk",
+  "name": "STON.fi SDK",
+  "github_repo": "ston-fi/sdk",
+  "telegram_handle": "stonfidex",
+  "project_url": "https://github.com/ston-fi/sdk",
+  "description": "Official SDK for building on STON.fi protocol.",
+  "expected": {
+    "project_types_any_of": ["tooling_sdk", "dapp_product"],
+    "requires_contract": false
+  }
+}

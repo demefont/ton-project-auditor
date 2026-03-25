@@ -1,0 +1,7 @@
+{
+  "id": "telegram_semantics",
+  "name": "Telegram Semantics Validator",
+  "kind": "validator",
+  "dependencies": ["telegram_channel"],
+  "description": "Analyzes recent Telegram posts for activity quality, promotional density, repetition and scam-like signals."
+}

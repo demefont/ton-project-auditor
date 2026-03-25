@@ -1,0 +1,188 @@
+{
+  "handle": "tonbuild",
+  "posts": [
+    "Sub-second finality: how to adapt your project TON is rolling out Catchain 2.0, a consensus upgrade targeting sub-second block finality on mainnet in early April 2026 . What's changing: – Block interval: ~2.5s → 200–400ms – Finalization lag: ~10s → ~1s – Throughput: up to ~5 blocks/sec But a faster chain alone won't help users if apps still rely on old API. We've published a step-by-step adoption guide covering: 🔹 Wallets & dApps: switch to TON Center Streaming API v2. Handle all four statuses: pending → confirmed → finalized → trace_invalidated . 🔹 Self-hosted nodes & liteservers: update to the latest release with Catchain 2.0 support before mainnet activation. 🔹 Indexers: prepare for up to 10x more blocks/sec. Connect to testnet and verify no lag accumulates over 30+ minutes. Testnet already runs at sub-second speed. Test there now. MyTonWallet and tonscan.org already use Streaming API and have nearly halved their reaction time, even before the mainnet upgrade. 📖 Full guide: How to adopt sub-second finality Start adapting today. If your app isn't ready, users won't notice any improvement.",
+    "📣 TON AI Agent Hackathon , last 24 hours Deadline: March 25, 11:59 PM UTC If your project is in progress, complete your build and submit. Focus on delivering a working implementation. 😏 Submit your entry here",
+    "🎤 TON Real Talk Ep.7 is LIVE! Dev updates across TON, including Rust Node progress with Roman Nguyen (RSquad), plus GameFi projects such as Glance , EdChess and iTerra . 🚀 With Anastasia, Dmitry, Anthony & Daniil. 😏 Watch on Telegram , X or TON_official_channel",
+    "📣 WalletCon is heading to Cannes, and TON will be there. On March 31, meet TON teams working on payments and infrastructure, and get practical insights on building and integrating on TON. Connect directly, ask technical questions, and explore what’s ready today. 😏 Register now",
+    "🪙 Report: Telegram as the default AI interface IdentityHub published a report exploring Telegram as an emerging interface for AI agents. Instead of building standalone dashboards, developers can run workflows, automation and agents directly inside chat. For builders on TON, this model aligns with bots, Mini Apps and agent-based services deployed where users already interact. 😏 Read the report",
+    "🎤 TON Real Talk Ep. 6 is LIVE! This week we discuss COCOON AI , decentralisation, and how Confidential Compute network can support developers building on TON. Together with our special guests: @ BlockchainBK from AlphaTON Capital, Matthew from Atlantic AI, JonMichael from FarmGPU & @ moontrips from TON Foundation. Watch on Telegram , X or",
+    "💎 TON Pay Workshop This Friday Payments on TON are becoming easier to integrate for eveyone. This Friday, we’re running the first TON Pay workshop with a live walkthrough and Q&A covering integration and key features. TON Pay is newly launched. If you’re building on TON and planning payment flows, this session will help you get started. 🗓️ Friday, March 13 🕑 2 PM UTC 📍 Live on X (@ ton_blockchain ) 👉 Questions about integration? Submit them here WalletKit | Alpha AppKit",
+    "💎 TON builders, new infrastructure just landed. The TON Rust Node by RSquad Blockchain Lab is a production-grade implementation of the TON protocol built for modern, cloud-native environments and scalable validator operations. With container-first deployment, Docker images and Helm charts, spinning up a node can take less than 10 minutes, even without deep TON-specific experience. On top of that, Nodectl provides a unified control plane to manage validator fleets, covering elections, staking, governance, and analytics. Security is also built in: private keys are never stored unencrypted, with HashiCorp Vault integration and a clear separation between execution and custody. Infrastructure like this is what helps the TON ecosystem scale. Start building 👇 👉 TON - Rust Node Docs 👉 RSquad - TON Rust Node 👉 Watch Video TON Foundation",
+    "Fast Grants for Agent Tooling: Results 💎 40 submissions. Strong depth across the board. We expanded the prize pool from $10K to $14K and selected 14 projects, each receiving $1,000. The focus was reusable tooling, infrastructure primitives, and A2A building blocks. Not end-user apps. Agent SDKs & Tools 🤖 • Teleton Agent by Resistor: autonomous AI agent platform for Telegram with native TON integration • AI sdk ton-tools by Mahdi: TON Blockchain tools for the Vercel AI SDK • TON OpenClaw Skill by Michele Inetovsky: Claude Code / OpenClaw skill giving AI agents full TON access • TON API Skill by Viacheslav Eliseev: Claude Code skill for TON API • Ton AI Audit by One Last Phoenix: LLM-powered smart contract auditing • AgentGuard by Farzam: on-chain wallet guardrails for agents • TonPay 402 by Amir M. Mahmoudi: x402 protocol for machine-to-machine payments on TON • x402-payments by Pavel Mulin: automatic payments for premium content and API access • Telehost by Allo: agent hosting platform • TON Agent Platform by spend $: no-code platform for building TON agents Communication & Discovery 📰 • TAMP by pwillis7: on-chain agent registry and A2A discovery • Mesh Network by Harjaap Dhillon: agent coordination protocol with on-chain reputation Gifts Ecosystem 🎁 • Gift Asset MCP by Gift Asset API: structured access to Telegram Gifts and TON market data for agents • Giftstat AI Bots by Camarade Ashik De Kano: Telegram Gifts analytics Special mention to Dan Okhlopkov (ton-analyst). Strong work, excluded only because Dan is a part of TON Foundation. Keep building. This round was the bootstrap layer. The next competition goes deeper into the stack. More details soon. Full results 🧑‍💻 Follow @ ai_dev_wall for more TON AI News! Gateway General Tickets",
+    "Submissions for AI Agent Tooling Fast Grants on TON are NOW OPEN 🧠 We've been running this tooling bounty for over a week in @ ai_dev_wall and are giving out $10K in fast grants to builders creating the tools that AI agents need to operate on TON. Think: agent wallets , SDKs , payment rails , on-chain interaction libraries . If you have been building, it's time for you to submit! Submit your application here 🌐 ⏰ Deadline : Today EOD 💰 $10,000 in grants If you're building agent infrastructure on TON, this is your moment . Ship it.",
+    "💎 AppKit | Alpha Announcement TON is the blockchain built into Telegram. Apps built on TON can reach Telegram's billion+ users directly. Until now, every team had to build wallet connections, transaction handling, and DeFi integrations from scratch. Weeks of work before a single line of product code. Today we're announcing AppKit alpha to change that. What's live now: ▪️ Wallet management and transaction sending ▪️ DeFi integration (swaps, staking) ▪️ TON Connect support ▪️ TypeScript and React support WalletKit is also production-ready for wallet developers on iOS, Android, React Native, and Web. More features coming at Gateway (May 1-2). 👉 Read more",
+    "❤️ AI Agent Tooling Bounty is up & running, with $10k in rewards! - 5 days since launch - 10+ tools already available Teleton: TON-Analysts: Gift-Assets WalletKit TonPixo Veritas ⭐ By",
+    "‼️BREAKING 🔥 💎 Introducing TON Pay | Payments Infrastructure for TON A new SDK that lets merchants and developers accept crypto payments across TON-native applications. Starting with Telegram Mini Apps. Key capabilities ▪️ One integration across TON apps ▪️ Near-instant on-chain settlement ▪️ Low-cost transactions ▪️ Native checkout experiences ▪️ Merchant dashboard and analytics TON Pay handles settlement, security, and payment logic. Merchants focus on product and user experience. 👉 Apply for early access 👉 Documentation",
+    "💎 Gateway 2026 Tickets in Crypto | Coming Soon Soon you'll be able to purchase Gateway 2026 tickets with $TON and $USDT on TON. We're teaming up with Moongate to bring crypto-native ticketing to our flagship event. More details coming soon. Stay tuned!",
+    "Hello TON Builders, We are coming to Hong Kong and you are invited! Join TON Event to explore how crypto payments and on-chain assets unlock liquidity and scale Web3 into real-world applications. 📅 Feb 9, 2026 | 13:30–18:30pm 📍 Hong Kong · Causeway Bay 🎉 Host: TON Foundation 🤝 Co-hosts: ChainNeXT, Asseto, ME Group, Native Highlights ✨ Deep dives into the payment roadmap in TON ecosystem ✨ New growth models for Web3 under payments × Telegram ✨ Real-world paths and compliance frameworks connecting TradFi and on-chain assets Apply and join us in HK 🔥",
+    "🎬 Tech Updates EP4 | Iryna Schnipper | DevRel & Documentation How Developer Relations at TON Foundation improves dev experience and onboarding. Focus areas: ▪️ Structured feedback flow from developers to engineering ▪️ Documentation standards: clarity, consistency, completeness ▪️ Onboarding acceleration via tutorials, how-to guides, and references ▪️ Continuous iteration, documentation evolves with the codebase Goal: reduce time to first build and remove dependency on support. “And this is all done so developers can start building on TON faster.” 👉 Watch the full episode 📚 TON Documentation",
+    "🎬 TON Pay | Nikola, VP Payments Nikola Plecas (VP Payments) and Angela Brasington (US Hub Lead) break down the current approach to payments infrastructure. Useful context for builders working on payments, Mini Apps, and user onboarding flows. 😏 Watch video",
+    "🎤 TON Real Talk Ep.7 — Dev Updates Dev updates across TON, including Rust Node progress with Roman Nguyen (RSquad). Hosted by Anastasia Yugova (CIS Hub Lead), Dmitry (CIS Community Lead), Anthony Tsivarev (VP of Ecosystem Development) & Daniil Sherbakov (GameFi BD). 🗓️ 19/03 | 4pm UTC 🚀 On X , Telegram & ton_official_channel ?si=AzDr9NK5yI8PasZf",
+    "🎬 Tech Interview EP3 A closer look at Tolk, the language replacing FunC for smart contracts on TON. Aleksandr Kirsanov (TON Core Team) explains how Tolk improves developer workflows and simplifies on-chain development. We covered: 😏 Limits of FunC ❓ Why projects are migrating to Tolk 🧩 Unified development tooling ⛏️ The vision for a smart contract development 😏 Check the full episode here",
+    "💎 Why TON Pay? Payments shouldn’t require every builder to implement the same infrastructure. In Telegram apps, that often meant creating wallets, checkout flows and settlement logic from scratch. TON Pay simplifies the integration 🚀 One SDK for Mini Apps, bots, and backend services. One-time payments, recurring payments, and subscriptions. Non-custodial, with funds remaining under user control. Focus on the product, not the payment stack. ⛏️",
+    "Unfortunately, due to the Middle East conflict and safety conditions in the UAE area, we have made the decision to cancel Gateway Dubai, originally scheduled for May 1 and 2, 2026. This was a difficult call, but the safety and well-being of our community always comes first. If you purchased a ticket to Gateway through Luma, Moongate or Tribute, or booked hotel reservations through promocode, you will receive a refund within the next 14 days. For further questions, please contact: gateway@ton.org. We are currently examining different formats to produce a Gateway event before the end of this year. An announcement will be forthcoming in the near future. We look forward to seeing you soon.",
+    "💎 TON AI Agent Hackathon is live $20,000. March 11-25. Track 1: Agent Infrastructure ($10K) Build the tooling layer: wallet integrations, agent coordination, payment flows, developer tools, core infrastructure that powers AI applications on TON. Track 2: User Facing Agents ($10K) Build agents users interact with directly in Telegram: commerce agents, payment bots, trading tools, automation products. Two weeks. Real prizes. Start Building. 🧠 MCP Docs 💎 For more information and registration click here",
+    "We are monitoring the situation in the Middle East and its potential impact on our Gateway event in Dubai on May 1 and 2. All options are under consideration. Safety for our community is our number one priority at TON Foundation. We will share a final decision with you by March 20th. Thank you.",
+    "🎬 Tech Updates EP1 | Andrew Grekov A look inside the engineering behind TON's developer tools. Andrew Grekov, Head of TON Tech, on why AppKit exists and what it changes for developers. \"Developers spend too much time on infrastructure, not enough on the product. We want to flip that.\" WalletKit 🐰 Alpha AppKit ⛏",
+    "📺 Tech Interviews: Trailer Infrastructure shouldn't be a bottleneck. Watch the trailer for our upcoming interview series with the team building the tools behind TON 💎 We’re bridging the gap between complex blockchain infrastructure and a smooth builder experience. Coming soon to"
+  ],
+  "post_count": 25,
+  "source": "tgchannels",
+  "entries": [
+    {
+      "text": "Sub-second finality: how to adapt your project TON is rolling out Catchain 2.0, a consensus upgrade targeting sub-second block finality on mainnet in early April 2026 . What's changing: – Block interval: ~2.5s → 200–400ms – Finalization lag: ~10s → ~1s – Throughput: up to ~5 blocks/sec But a faster chain alone won't help users if apps still rely on old API. We've published a step-by-step adoption guide covering: 🔹 Wallets & dApps: switch to TON Center Streaming API v2. Handle all four statuses: pending → confirmed → finalized → trace_invalidated . 🔹 Self-hosted nodes & liteservers: update to the latest release with Catchain 2.0 support before mainnet activation. 🔹 Indexers: prepare for up to 10x more blocks/sec. Connect to testnet and verify no lag accumulates over 30+ minutes. Testnet already runs at sub-second speed. Test there now. MyTonWallet and tonscan.org already use Streaming API and have nearly halved their reaction time, even before the mainnet upgrade. 📖 Full guide: How to adopt sub-second finality Start adapting today. If your app isn't ready, users won't notice any improvement.",
+      "date_text": "25 March 2026 12:45",
+      "published_at": "2026-03-25T12:45:00Z",
+      "url": "https://t.me/tonbuild/139"
+    },
+    {
+      "text": "📣 TON AI Agent Hackathon , last 24 hours Deadline: March 25, 11:59 PM UTC If your project is in progress, complete your build and submit. Focus on delivering a working implementation. 😏 Submit your entry here",
+      "date_text": "24 March 2026 13:57",
+      "published_at": "2026-03-24T13:57:00Z",
+      "url": "https://t.me/toncoin/2333"
+    },
+    {
+      "text": "🎤 TON Real Talk Ep.7 is LIVE! Dev updates across TON, including Rust Node progress with Roman Nguyen (RSquad), plus GameFi projects such as Glance , EdChess and iTerra . 🚀 With Anastasia, Dmitry, Anthony & Daniil. 😏 Watch on Telegram , X or TON_official_channel",
+      "date_text": "19 March 2026 17:00",
+      "published_at": "2026-03-19T17:00:00Z",
+      "url": "https://t.me/tonbuild/135"
+    },
+    {
+      "text": "📣 WalletCon is heading to Cannes, and TON will be there. On March 31, meet TON teams working on payments and infrastructure, and get practical insights on building and integrating on TON. Connect directly, ask technical questions, and explore what’s ready today. 😏 Register now",
+      "date_text": "17 March 2026 20:57",
+      "published_at": "2026-03-17T20:57:00Z",
+      "url": "https://t.me/tonbuild/133"
+    },
+    {
+      "text": "🪙 Report: Telegram as the default AI interface IdentityHub published a report exploring Telegram as an emerging interface for AI agents. Instead of building standalone dashboards, developers can run workflows, automation and agents directly inside chat. For builders on TON, this model aligns with bots, Mini Apps and agent-based services deployed where users already interact. 😏 Read the report",
+      "date_text": "13 March 2026 18:01",
+      "published_at": "2026-03-13T18:01:00Z",
+      "url": "https://t.me/tonbuild/131"
+    },
+    {
+      "text": "🎤 TON Real Talk Ep. 6 is LIVE! This week we discuss COCOON AI , decentralisation, and how Confidential Compute network can support developers building on TON. Together with our special guests: @ BlockchainBK from AlphaTON Capital, Matthew from Atlantic AI, JonMichael from FarmGPU & @ moontrips from TON Foundation. Watch on Telegram , X or",
+      "date_text": "12 March 2026 16:14",
+      "published_at": "2026-03-12T16:14:00Z",
+      "url": "https://t.me/tonbuild/129"
+    },
+    {
+      "text": "💎 TON Pay Workshop This Friday Payments on TON are becoming easier to integrate for eveyone. This Friday, we’re running the first TON Pay workshop with a live walkthrough and Q&A covering integration and key features. TON Pay is newly launched. If you’re building on TON and planning payment flows, this session will help you get started. 🗓️ Friday, March 13 🕑 2 PM UTC 📍 Live on X (@ ton_blockchain ) 👉 Questions about integration? Submit them here WalletKit | Alpha AppKit",
+      "date_text": "12 March 2026 14:21",
+      "published_at": "2026-03-12T14:21:00Z",
+      "url": "https://t.me/tonbuild/127"
+    },
+    {
+      "text": "💎 TON builders, new infrastructure just landed. The TON Rust Node by RSquad Blockchain Lab is a production-grade implementation of the TON protocol built for modern, cloud-native environments and scalable validator operations. With container-first deployment, Docker images and Helm charts, spinning up a node can take less than 10 minutes, even without deep TON-specific experience. On top of that, Nodectl provides a unified control plane to manage validator fleets, covering elections, staking, governance, and analytics. Security is also built in: private keys are never stored unencrypted, with HashiCorp Vault integration and a clear separation between execution and custody. Infrastructure like this is what helps the TON ecosystem scale. Start building 👇 👉 TON - Rust Node Docs 👉 RSquad - TON Rust Node 👉 Watch Video TON Foundation",
+      "date_text": "10 March 2026 13:12",
+      "published_at": "2026-03-10T13:12:00Z",
+      "url": "https://t.me/tonbuild/125"
+    },
+    {
+      "text": "Fast Grants for Agent Tooling: Results 💎 40 submissions. Strong depth across the board. We expanded the prize pool from $10K to $14K and selected 14 projects, each receiving $1,000. The focus was reusable tooling, infrastructure primitives, and A2A building blocks. Not end-user apps. Agent SDKs & Tools 🤖 • Teleton Agent by Resistor: autonomous AI agent platform for Telegram with native TON integration • AI sdk ton-tools by Mahdi: TON Blockchain tools for the Vercel AI SDK • TON OpenClaw Skill by Michele Inetovsky: Claude Code / OpenClaw skill giving AI agents full TON access • TON API Skill by Viacheslav Eliseev: Claude Code skill for TON API • Ton AI Audit by One Last Phoenix: LLM-powered smart contract auditing • AgentGuard by Farzam: on-chain wallet guardrails for agents • TonPay 402 by Amir M. Mahmoudi: x402 protocol for machine-to-machine payments on TON • x402-payments by Pavel Mulin: automatic payments for premium content and API access • Telehost by Allo: agent hosting platform • TON Agent Platform by spend $: no-code platform for building TON agents Communication & Discovery 📰 • TAMP by pwillis7: on-chain agent registry and A2A discovery • Mesh Network by Harjaap Dhillon: agent coordination protocol with on-chain reputation Gifts Ecosystem 🎁 • Gift Asset MCP by Gift Asset API: structured access to Telegram Gifts and TON market data for agents • Giftstat AI Bots by Camarade Ashik De Kano: Telegram Gifts analytics Special mention to Dan Okhlopkov (ton-analyst). Strong work, excluded only because Dan is a part of TON Foundation. Keep building. This round was the bootstrap layer. The next competition goes deeper into the stack. More details soon. Full results 🧑‍💻 Follow @ ai_dev_wall for more TON AI News! Gateway General Tickets",
+      "date_text": "05 March 2026 15:58",
+      "published_at": "2026-03-05T15:58:00Z",
+      "url": "https://t.me/tonbuild/123"
+    },
+    {
+      "text": "Submissions for AI Agent Tooling Fast Grants on TON are NOW OPEN 🧠 We've been running this tooling bounty for over a week in @ ai_dev_wall and are giving out $10K in fast grants to builders creating the tools that AI agents need to operate on TON. Think: agent wallets , SDKs , payment rails , on-chain interaction libraries . If you have been building, it's time for you to submit! Submit your application here 🌐 ⏰ Deadline : Today EOD 💰 $10,000 in grants If you're building agent infrastructure on TON, this is your moment . Ship it.",
+      "date_text": "23 February 2026 16:07",
+      "published_at": "2026-02-23T16:07:00Z",
+      "url": "https://t.me/ai_dev_wall/57"
+    },
+    {
+      "text": "💎 AppKit | Alpha Announcement TON is the blockchain built into Telegram. Apps built on TON can reach Telegram's billion+ users directly. Until now, every team had to build wallet connections, transaction handling, and DeFi integrations from scratch. Weeks of work before a single line of product code. Today we're announcing AppKit alpha to change that. What's live now: ▪️ Wallet management and transaction sending ▪️ DeFi integration (swaps, staking) ▪️ TON Connect support ▪️ TypeScript and React support WalletKit is also production-ready for wallet developers on iOS, Android, React Native, and Web. More features coming at Gateway (May 1-2). 👉 Read more",
+      "date_text": "19 February 2026 14:25",
+      "published_at": "2026-02-19T14:25:00Z",
+      "url": "https://t.me/tonbuild/118"
+    },
+    {
+      "text": "❤️ AI Agent Tooling Bounty is up & running, with $10k in rewards! - 5 days since launch - 10+ tools already available Teleton: TON-Analysts: Gift-Assets WalletKit TonPixo Veritas ⭐ By",
+      "date_text": "18 February 2026 18:46",
+      "published_at": "2026-02-18T18:46:00Z",
+      "url": "https://t.me/ai_dev_wall/12"
+    },
+    {
+      "text": "‼️BREAKING 🔥 💎 Introducing TON Pay | Payments Infrastructure for TON A new SDK that lets merchants and developers accept crypto payments across TON-native applications. Starting with Telegram Mini Apps. Key capabilities ▪️ One integration across TON apps ▪️ Near-instant on-chain settlement ▪️ Low-cost transactions ▪️ Native checkout experiences ▪️ Merchant dashboard and analytics TON Pay handles settlement, security, and payment logic. Merchants focus on product and user experience. 👉 Apply for early access 👉 Documentation",
+      "date_text": "09 February 2026 20:34",
+      "published_at": "2026-02-09T20:34:00Z",
+      "url": "https://t.me/tonbuild/114"
+    },
+    {
+      "text": "💎 Gateway 2026 Tickets in Crypto | Coming Soon Soon you'll be able to purchase Gateway 2026 tickets with $TON and $USDT on TON. We're teaming up with Moongate to bring crypto-native ticketing to our flagship event. More details coming soon. Stay tuned!",
+      "date_text": "30 January 2026 08:42",
+      "published_at": "2026-01-30T08:42:00Z",
+      "url": "https://t.me/tonbuild/112"
+    },
+    {
+      "text": "Hello TON Builders, We are coming to Hong Kong and you are invited! Join TON Event to explore how crypto payments and on-chain assets unlock liquidity and scale Web3 into real-world applications. 📅 Feb 9, 2026 | 13:30–18:30pm 📍 Hong Kong · Causeway Bay 🎉 Host: TON Foundation 🤝 Co-hosts: ChainNeXT, Asseto, ME Group, Native Highlights ✨ Deep dives into the payment roadmap in TON ecosystem ✨ New growth models for Web3 under payments × Telegram ✨ Real-world paths and compliance frameworks connecting TradFi and on-chain assets Apply and join us in HK 🔥",
+      "date_text": "29 January 2026 11:26",
+      "published_at": "2026-01-29T11:26:00Z",
+      "url": "https://t.me/tonbuild/110"
+    },
+    {
+      "text": "🎬 Tech Updates EP4 | Iryna Schnipper | DevRel & Documentation How Developer Relations at TON Foundation improves dev experience and onboarding. Focus areas: ▪️ Structured feedback flow from developers to engineering ▪️ Documentation standards: clarity, consistency, completeness ▪️ Onboarding acceleration via tutorials, how-to guides, and references ▪️ Continuous iteration, documentation evolves with the codebase Goal: reduce time to first build and remove dependency on support. “And this is all done so developers can start building on TON faster.” 👉 Watch the full episode 📚 TON Documentation",
+      "date_text": "24 March 2026 15:09",
+      "published_at": "2026-03-24T15:09:00Z",
+      "url": "https://t.me/tonbuild/138"
+    },
+    {
+      "text": "🎬 TON Pay | Nikola, VP Payments Nikola Plecas (VP Payments) and Angela Brasington (US Hub Lead) break down the current approach to payments infrastructure. Useful context for builders working on payments, Mini Apps, and user onboarding flows. 😏 Watch video",
+      "date_text": "23 March 2026 16:05",
+      "published_at": "2026-03-23T16:05:00Z",
+      "url": "https://t.me/tonbuild/136"
+    },
+    {
+      "text": "🎤 TON Real Talk Ep.7 — Dev Updates Dev updates across TON, including Rust Node progress with Roman Nguyen (RSquad). Hosted by Anastasia Yugova (CIS Hub Lead), Dmitry (CIS Community Lead), Anthony Tsivarev (VP of Ecosystem Development) & Daniil Sherbakov (GameFi BD). 🗓️ 19/03 | 4pm UTC 🚀 On X , Telegram & ton_official_channel ?si=AzDr9NK5yI8PasZf",
+      "date_text": "18 March 2026 19:56",
+      "published_at": "2026-03-18T19:56:00Z",
+      "url": "https://t.me/tonbuild/134"
+    },
+    {
+      "text": "🎬 Tech Interview EP3 A closer look at Tolk, the language replacing FunC for smart contracts on TON. Aleksandr Kirsanov (TON Core Team) explains how Tolk improves developer workflows and simplifies on-chain development. We covered: 😏 Limits of FunC ❓ Why projects are migrating to Tolk 🧩 Unified development tooling ⛏️ The vision for a smart contract development 😏 Check the full episode here",
+      "date_text": "17 March 2026 14:16",
+      "published_at": "2026-03-17T14:16:00Z",
+      "url": "https://t.me/tonbuild/132"
+    },
+    {
+      "text": "💎 Why TON Pay? Payments shouldn’t require every builder to implement the same infrastructure. In Telegram apps, that often meant creating wallets, checkout flows and settlement logic from scratch. TON Pay simplifies the integration 🚀 One SDK for Mini Apps, bots, and backend services. One-time payments, recurring payments, and subscriptions. Non-custodial, with funds remaining under user control. Focus on the product, not the payment stack. ⛏️",
+      "date_text": "13 March 2026 15:23",
+      "published_at": "2026-03-13T15:23:00Z",
+      "url": "https://t.me/tonbuild/130"
+    },
+    {
+      "text": "Unfortunately, due to the Middle East conflict and safety conditions in the UAE area, we have made the decision to cancel Gateway Dubai, originally scheduled for May 1 and 2, 2026. This was a difficult call, but the safety and well-being of our community always comes first. If you purchased a ticket to Gateway through Luma, Moongate or Tribute, or booked hotel reservations through promocode, you will receive a refund within the next 14 days. For further questions, please contact: gateway@ton.org. We are currently examining different formats to produce a Gateway event before the end of this year. An announcement will be forthcoming in the near future. We look forward to seeing you soon.",
+      "date_text": "12 March 2026 14:55",
+      "published_at": "2026-03-12T14:55:00Z",
+      "url": "https://t.me/tonbuild/128"
+    },
+    {
+      "text": "💎 TON AI Agent Hackathon is live $20,000. March 11-25. Track 1: Agent Infrastructure ($10K) Build the tooling layer: wallet integrations, agent coordination, payment flows, developer tools, core infrastructure that powers AI applications on TON. Track 2: User Facing Agents ($10K) Build agents users interact with directly in Telegram: commerce agents, payment bots, trading tools, automation products. Two weeks. Real prizes. Start Building. 🧠 MCP Docs 💎 For more information and registration click here",
+      "date_text": "11 March 2026 15:38",
+      "published_at": "2026-03-11T15:38:00Z",
+      "url": "https://t.me/toncoin/2312"
+    },
+    {
+      "text": "We are monitoring the situation in the Middle East and its potential impact on our Gateway event in Dubai on May 1 and 2. All options are under consideration. Safety for our community is our number one priority at TON Foundation. We will share a final decision with you by March 20th. Thank you.",
+      "date_text": "09 March 2026 14:08",
+      "published_at": "2026-03-09T14:08:00Z",
+      "url": "https://t.me/tonbuild/124"
+    },
+    {
+      "text": "🎬 Tech Updates EP1 | Andrew Grekov A look inside the engineering behind TON's developer tools. Andrew Grekov, Head of TON Tech, on why AppKit exists and what it changes for developers. \"Developers spend too much time on infrastructure, not enough on the product. We want to flip that.\" WalletKit 🐰 Alpha AppKit ⛏",
+      "date_text": "24 February 2026 16:00",
+      "published_at": "2026-02-24T16:00:00Z",
+      "url": "https://t.me/tonbuild/122"
+    },
+    {
+      "text": "📺 Tech Interviews: Trailer Infrastructure shouldn't be a bottleneck. Watch the trailer for our upcoming interview series with the team building the tools behind TON 💎 We’re bridging the gap between complex blockchain infrastructure and a smooth builder experience. Coming soon to",
+      "date_text": "20 February 2026 16:48",
+      "published_at": "2026-02-20T16:48:00Z",
+      "url": "https://t.me/tonbuild/120"
+    }
+  ],
+  "fetched_at": "2026-03-25T18:25:13Z",
+  "source_errors": [
+    "tgstat: HTTP Error 404: Not Found"
+  ]
+}

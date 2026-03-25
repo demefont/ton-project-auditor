@@ -1,0 +1,7 @@
+{
+  "id": "github_activity",
+  "name": "GitHub Activity Collector",
+  "kind": "collector",
+  "dependencies": ["github_repo"],
+  "description": "Loads recent commit and release activity for freshness and momentum metrics."
+}

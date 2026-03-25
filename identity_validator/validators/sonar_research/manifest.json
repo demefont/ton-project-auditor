@@ -1,0 +1,7 @@
+{
+  "id": "sonar_research",
+  "name": "Sonar Research Block",
+  "kind": "analyzer",
+  "dependencies": ["github_repo", "project_type"],
+  "description": "Optional public-web research block powered by Sonar-compatible model."
+}

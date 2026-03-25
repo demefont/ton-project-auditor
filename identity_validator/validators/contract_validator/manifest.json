@@ -1,0 +1,7 @@
+{
+  "id": "contract_validator",
+  "name": "Contract Validator",
+  "kind": "validator",
+  "dependencies": ["project_type", "github_tree", "address_signal"],
+  "description": "Checks whether contract-heavy projects expose contract artifacts and related address signals."
+}

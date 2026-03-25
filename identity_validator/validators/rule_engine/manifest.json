@@ -1,0 +1,7 @@
+{
+  "id": "rule_engine",
+  "name": "Rule Engine",
+  "kind": "synthesizer",
+  "dependencies": ["github_repo", "github_tree", "telegram_channel", "telegram_semantics", "project_type", "address_signal", "contract_validator", "claim_consistency", "risk_validator", "sonar_research", "github_activity", "project_registry", "project_similarity", "identity_confirmation"],
+  "description": "Combines validator outputs into transparent scores."
+}

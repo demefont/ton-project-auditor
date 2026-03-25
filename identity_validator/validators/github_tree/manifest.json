@@ -1,0 +1,7 @@
+{
+  "id": "github_tree",
+  "name": "GitHub Tree Collector",
+  "kind": "collector",
+  "dependencies": ["github_repo"],
+  "description": "Loads recursive repository tree from GitHub."
+}

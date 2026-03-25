@@ -1,0 +1,12 @@
+{
+  "case_id": "ton_blockchain_ton",
+  "name": "TON Blockchain",
+  "github_repo": "ton-blockchain/ton",
+  "telegram_handle": "toncoin",
+  "project_url": "https://github.com/ton-blockchain/ton",
+  "description": "Reference TON blockchain implementation and core infrastructure.",
+  "expected": {
+    "project_types_any_of": ["protocol_infra"],
+    "requires_contract": false
+  }
+}

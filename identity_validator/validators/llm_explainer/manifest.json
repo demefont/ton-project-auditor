@@ -1,0 +1,7 @@
+{
+  "id": "llm_explainer",
+  "name": "LLM Explainer",
+  "kind": "synthesizer",
+  "dependencies": ["rule_engine", "project_type", "risk_validator", "github_repo", "github_activity", "telegram_channel", "telegram_semantics", "address_signal", "identity_confirmation", "contract_validator", "project_similarity"],
+  "description": "Produces a grounded bilingual explanation and project overview from collected evidence."
+}

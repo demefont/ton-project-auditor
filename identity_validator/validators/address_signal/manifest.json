@@ -1,0 +1,7 @@
+{
+  "id": "address_signal",
+  "name": "Address Signal Analyzer",
+  "kind": "analyzer",
+  "dependencies": ["github_repo", "telegram_channel"],
+  "description": "Extracts TON-style addresses from repository docs and Telegram, then enriches them with TON-native DNS, balance and address activity signals."
+}

@@ -1,0 +1,13 @@
+{
+  "case_id": "ton_punks",
+  "name": "TON Punks / Punk City",
+  "github_repo": "TON-Punks/punk-city-hack-a-tonx",
+  "telegram_handle": "tonpunks",
+  "project_url": "https://github.com/TON-Punks/punk-city-hack-a-tonx",
+  "wallet_address": "EQAo92DYMokxghKcq-CkCGSk_MgXY5Fo1SPW20gkvZl75iCN",
+  "description": "TON Punks ecosystem project with Telegram GameFi experience, NFT collection and smart-contract based mechanics on TON.",
+  "expected": {
+    "project_types_any_of": ["smart_contracts", "dapp_product", "tooling_sdk"],
+    "requires_contract": false
+  }
+}

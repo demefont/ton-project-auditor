@@ -1,0 +1,764 @@
+{
+  "tree": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "type": "blob"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "type": "blob"
+    },
+    {
+      "path": ".gitignore",
+      "type": "blob"
+    },
+    {
+      "path": "LICENSE",
+      "type": "blob"
+    },
+    {
+      "path": "docs/images/1collection.png",
+      "type": "blob"
+    },
+    {
+      "path": "docs/images/2collection.png",
+      "type": "blob"
+    },
+    {
+      "path": "docs/images/3collection.png",
+      "type": "blob"
+    },
+    {
+      "path": "docs/images/meta_buttons_uri.png",
+      "type": "blob"
+    },
+    {
+      "path": "docs/images/mint-collection-checkbox.png",
+      "type": "blob"
+    },
+    {
+      "path": "docs/images/mint-collection-tg-notify.png",
+      "type": "blob"
+    },
+    {
+      "path": "docs/images/mint-connect-wallet.png",
+      "type": "blob"
+    },
+    {
+      "path": "docs/images/nft-metadata.jpg",
+      "type": "blob"
+    },
+    {
+      "path": "docs/metadata.md",
+      "type": "blob"
+    },
+    {
+      "path": "docs/minting-api-en.md",
+      "type": "blob"
+    },
+    {
+      "path": "docs/minting-api-get-started-ru.md",
+      "type": "blob"
+    },
+    {
+      "path": "docs/minting-api-ru.md",
+      "type": "blob"
+    },
+    {
+      "path": "docs/read-api-en.md",
+      "type": "blob"
+    },
+    {
+      "path": "docs/read-api-ru.md",
+      "type": "blob"
+    },
+    {
+      "path": "docs/ru/metadata.md",
+      "type": "blob"
+    },
+    {
+      "path": "jest.config.js",
+      "type": "blob"
+    },
+    {
+      "path": "package-lock.json",
+      "type": "blob"
+    },
+    {
+      "path": "package.json",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/deployer/DeployerLocal.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction-v2/NftAuctionV2.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction-v2/NftAuctionV2.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction-v2/NftAuctionV2.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction-v2/NftAuctionV2Local.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction-v2/NftAuctionV4.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction-v2/NftAuctionV4R1.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction-v2/description-ru.md",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction-v2/description-v4-ru.md",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction-v2/isNftAuctionV2Contract.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction/NftAuction.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction/NftAuction.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction/NftAuction.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction/NftAuctionLocal.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction/isNftAuctionContract.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-auction/test-tools.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-collection/NftCollection.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-collection/NftCollection.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-collection/NftCollection.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-collection/NftCollectionLocal.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-collection/isNftCollectionContract.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-collection/isNftCollectionContract.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v2/NftFixpriceSaleV2.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v2/NftFixpriceSaleV2.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v2/NftFixpriceSaleV2.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v2/NftFixpriceSaleV2Local.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v2/isNftFixPriceSaleV2Contract.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v3/NftFixpriceSaleV3.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v3/NftFixpriceSaleV3.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v3/NftFixpriceSaleV3.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v3/NftFixpriceSaleV3Local.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v3/description-ru.md",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v3/isNftFixPriceSaleV3Contract.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v4/NftFixPriceSaleV4.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v4/NftFixPriceSaleV4.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v4/NftFixPriceSaleV4.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v4/NftFixPriceSaleV4R1.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v4/description-ru.md",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale-v4/storage.tlb",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale/NftFixPriceSale.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale/NftFixPriceSale.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale/NftFixpriceSale.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale/NftFixpriceSaleLocal.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-fixprice-sale/isNftFixPriceSaleContract.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-item/NftItem.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-item/NftItem.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-item/NftItem.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-item/NftItemLocal.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-item/isNftItemContract.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-item/isNftItemContract.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-marketplace/NftMarketplace.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-marketplace/NftMarketplace.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-marketplace/NftMarketplace.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-marketplace/NftMarketplaceLocal.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-offer/NftOffer.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-offer/NftOffer.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-offer/NftOfferData.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-offer/NftOfferLocal.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-offer/index-notice-ru.md",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-offer/isNftOfferContract.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-raffle/main.test.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-raffle/raffle.local.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-raffle/raffle.queries.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-raffle/raffle.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-raffle/raffle.storage.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-swap/Swap.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-swap/Swap.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-swap/Swap.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/nft-swap/SwapLocal.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sbt-item/SbtItem.data.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sbt-item/SbtItem.source.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sbt-item/SbtItem.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sbt-item/SbtItemLocal.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/deployer/deployer.base64",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/deployer/deployer.boc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/deployer/deployer.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/deployer/deployer.fif",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/imports/stdlib.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/build.sh",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/nft-auction-v2-code.base64",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/nft-auction-v2-code.boc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/nft-auction-v2-code.fif",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/nft-auction-v2.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/struct/exit-codes.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/struct/get-met.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/struct/handles.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/struct/math.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/struct/msg-utils.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/struct/op-codes.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v2/struct/storage.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/nft-auction-v3r2-code.base64",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/nft-auction-v3r2-code.boc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/nft-auction-v3r2-code.fif",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/nft-auction-v3r2.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/struct/exit-codes.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/struct/get-met.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/struct/handles.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/struct/math.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/struct/msg-utils.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/struct/op-codes.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r2/struct/storage.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r3/nft-auction-v3r3.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r3/struct/exit-codes.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r3/struct/math.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r3/struct/msg-utils.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v3r3/struct/op-codes.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction-v4r1.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/build.sh",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/nft-auction-code.base64",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/nft-auction-code.boc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/nft-auction-code.fif",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/nft-auction.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/struct/exit-codes.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/struct/get-met.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/struct/handles.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/struct/math.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/struct/msg-utils.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/struct/op-codes.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-auction/struct/storage.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-collection-editable-v2.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-collection-editable.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-collection.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-fixprice-sale-v2.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-fixprice-sale-v3.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-fixprice-sale-v3r2.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-fixprice-sale-v3r3.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-fixprice-sale-v4r1.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-fixprice-sale.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-item-editable-DRAFT.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-item-editable-v2.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-item-v2.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-item.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-marketplace-v2.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-marketplace.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-offer-v1r3.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-offer.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-raffle/build.sh",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-raffle/main.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-raffle/struct/constants.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-raffle/struct/get-methods.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-raffle/struct/handles.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-raffle/struct/storage.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-raffle/struct/utils.func",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-sale.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-single.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/nft-swap.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/op-codes.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/params.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/sbt-item.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/sbt-single.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/contracts/sources/stdlib.fc",
+      "type": "blob"
+    },
+    {
+      "path": "packages/nft-content/nftContent.spec.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/nft-content/nftContent.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/ton/bigint.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/ton/core/crc32str.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/ton/core/func.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/utils/combineFunc.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/utils/compileFunc.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/utils/createTempFile.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/utils/randomAddress.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/utils/randomAddressCore.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/utils/randomKeyPair.ts",
+      "type": "blob"
+    },
+    {
+      "path": "packages/utils/uuid.ts",
+      "type": "blob"
+    },
+    {
+      "path": "raffle.md",
+      "type": "blob"
+    },
+    {
+      "path": "readme.md",
+      "type": "blob"
+    },
+    {
+      "path": "sbt.md",
+      "type": "blob"
+    },
+    {
+      "path": "swap.md",
+      "type": "blob"
+    },
+    {
+      "path": "tsconfig.json",
+      "type": "blob"
+    }
+  ]
+}

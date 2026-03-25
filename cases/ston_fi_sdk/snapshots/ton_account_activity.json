@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "summary": "Observed 1 address transactions in the last 30 days. Latest transaction is 21 days old.",
+  "address": "EQDCBwiUEeeBLHhqIW161yObGvO7_BqZeD3XR5E2y_fwfiMG",
+  "last_tx_at": "2026-03-04T17:34:01Z",
+  "last_tx_age_days": 21,
+  "tx_count_7d": 0,
+  "tx_count_30d": 1,
+  "tx_count_30d_limit_hit": false,
+  "sample_transactions": [
+    {
+      "hash": "m3a58qLh0fgGINultPbjZHcUyLE7GIb44cRIbu0mwC0=",
+      "lt": "67588878000036",
+      "published_at": "2026-03-04T17:34:01Z",
+      "timestamp": 1772645641
+    }
+  ]
+}

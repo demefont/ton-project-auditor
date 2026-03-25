@@ -1,0 +1,7 @@
+{
+  "id": "project_similarity",
+  "name": "Project Similarity Validator",
+  "kind": "validator",
+  "dependencies": ["project_registry", "github_repo", "github_tree", "project_type", "github_activity"],
+  "description": "Finds similar projects in the curated registry and estimates originality risk."
+}

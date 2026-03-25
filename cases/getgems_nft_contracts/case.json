@@ -1,0 +1,12 @@
+{
+  "case_id": "getgems_nft_contracts",
+  "name": "Getgems NFT Contracts",
+  "github_repo": "getgems-io/nft-contracts",
+  "telegram_handle": "getgems",
+  "project_url": "https://github.com/getgems-io/nft-contracts",
+  "description": "TON NFT marketplace contract repository.",
+  "expected": {
+    "project_types_any_of": ["smart_contracts"],
+    "requires_contract": true
+  }
+}

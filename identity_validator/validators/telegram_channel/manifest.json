@@ -1,0 +1,7 @@
+{
+  "id": "telegram_channel",
+  "name": "Telegram Channel Collector",
+  "kind": "collector",
+  "dependencies": [],
+  "description": "Loads and normalizes public Telegram channel posts."
+}

@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "summary": "Observed 682 address transactions in the last 30 days. Latest transaction is 0 days old.",
+  "address": "EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS",
+  "last_tx_at": "2026-03-25T14:10:11Z",
+  "last_tx_age_days": 0,
+  "tx_count_7d": 126,
+  "tx_count_30d": 682,
+  "tx_count_30d_limit_hit": false,
+  "sample_transactions": [
+    {
+      "hash": "HHu9JK2vujO73N0IaKIbU7y1MZLv4Ff9jdFdBGYpibg=",
+      "lt": "68360324000007",
+      "published_at": "2026-03-25T14:10:11Z",
+      "timestamp": 1774447811
+    },
+    {
+      "hash": "IeRHn9BnyiOjWPUxOSFrq+MyPoTDn3Z6dU0U0UbdHLU=",
+      "lt": "68360100000007",
+      "published_at": "2026-03-25T14:01:33Z",
+      "timestamp": 1774447293
+    },
+    {
+      "hash": "FfMA/jj/D/D4HkYPpcyiFi952BsWX1paK/MHReBaQpo=",
+      "lt": "68358836000007",
+      "published_at": "2026-03-25T13:12:34Z",
+      "timestamp": 1774444354
+    },
+    {
+      "hash": "3qRVnSVzobB+0gHcGX5znpsSvygKCnMrVQZw6E/jIhA=",
+      "lt": "68358829000006",
+      "published_at": "2026-03-25T13:12:17Z",
+      "timestamp": 1774444337
+    },
+    {
+      "hash": "TyiXyLSu1OnmVjms6r5MgOTH1FlKfAStDsZ1S8vEzuM=",
+      "lt": "68357827000007",
+      "published_at": "2026-03-25T12:33:39Z",
+      "timestamp": 1774442019
+    }
+  ]
+}

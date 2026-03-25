@@ -1,0 +1,2423 @@
+{
+  "commits": [
+    {
+      "sha": "6cba37596e31d5f3a7ea1ad695e738a1a910ed4f",
+      "date": "2026-03-02T10:54:09+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: support tetra (#349)",
+      "parent_count": 0
+    },
+    {
+      "sha": "3fec080855a271fe6bb6cf6530c63f37fd761c99",
+      "date": "2026-02-20T18:25:27+03:00",
+      "author_login": "",
+      "author_name": "Tim",
+      "message": "Merge pull request #347 from TrueCarry/dev/tetra-support",
+      "parent_count": 0
+    },
+    {
+      "sha": "decc3c04497f56ecdc1d615fd842cf0ccc4551b5",
+      "date": "2026-02-20T02:25:40+03:00",
+      "author_login": "",
+      "author_name": "Tim",
+      "message": "chore: fix lock",
+      "parent_count": 0
+    },
+    {
+      "sha": "14d0ebc23d1ef18646afce22fc505f63ad25c8e8",
+      "date": "2026-02-20T02:09:53+03:00",
+      "author_login": "",
+      "author_name": "Tim",
+      "message": "feat: Add tetra network support",
+      "parent_count": 0
+    },
+    {
+      "sha": "95d997c3c66a3de3817c8767072ac2aef750d71d",
+      "date": "2026-01-19T17:26:23+03:00",
+      "author_login": "",
+      "author_name": "Alejandbel",
+      "message": "chore: update changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "e17fd42dbc13a8c3a930848a7eca6381a97a9eac",
+      "date": "2026-01-19T17:23:21+03:00",
+      "author_login": "",
+      "author_name": "Ilya Egorov",
+      "message": "Merge pull request #342 from ton-org/update-ci-oidc-4",
+      "parent_count": 0
+    },
+    {
+      "sha": "aef3f077a64b94baf580c3fdc711887f8ea79da7",
+      "date": "2026-01-19T17:23:03+03:00",
+      "author_login": "",
+      "author_name": "Ilya Egorov",
+      "message": "CI: Update for OIDC",
+      "parent_count": 0
+    },
+    {
+      "sha": "79d051fe1947f7dab4b651872606358c589f5fbd",
+      "date": "2026-01-19T17:21:43+03:00",
+      "author_login": "",
+      "author_name": "Ilya Egorov",
+      "message": "Merge pull request #341 from ton-org/update-ci-oidc-3",
+      "parent_count": 0
+    },
+    {
+      "sha": "7433421521297d2187b6aa3d6a84d58b767d7292",
+      "date": "2026-01-19T17:21:21+03:00",
+      "author_login": "",
+      "author_name": "Ilya Egorov",
+      "message": "CI: Update for OIDC",
+      "parent_count": 0
+    },
+    {
+      "sha": "cf46f5d27d8ad812a419a6100e2b6eeb50ae3fb8",
+      "date": "2026-01-19T17:12:59+03:00",
+      "author_login": "",
+      "author_name": "Ilya Egorov",
+      "message": "CI: Update for OIDC (#339) (#340)",
+      "parent_count": 0
+    },
+    {
+      "sha": "0c1a31b211c7a85c5ab56c58af3a75f875de1cc2",
+      "date": "2026-01-19T16:49:40+03:00",
+      "author_login": "",
+      "author_name": "Ilya Egorov",
+      "message": "CI: Update for OIDC (#339)",
+      "parent_count": 0
+    },
+    {
+      "sha": "4865ccad6071df318632787e288bee8d814f907f",
+      "date": "2026-01-16T10:11:07+03:00",
+      "author_login": "",
+      "author_name": "Alejandbel",
+      "message": "chore: update changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "c439258a36894ffc632ec07e1e02f1d895447a2d",
+      "date": "2026-01-15T21:55:23+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: support various verifiers with new config format (#337)",
+      "parent_count": 0
+    },
+    {
+      "sha": "03ae43a44ee57e58c8b9c41af689132e4635c5ab",
+      "date": "2025-12-04T09:54:14+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update sandbox dev dependency",
+      "parent_count": 0
+    },
+    {
+      "sha": "bc5d0a539b6ee47086ced50ff649d389ccd4edde",
+      "date": "2025-12-04T09:52:58+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "9aa014a9d8115b16fe5ad171b70cd70eda2dff04",
+      "date": "2025-12-04T09:52:31+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: change sandbox peer dependency",
+      "parent_count": 0
+    },
+    {
+      "sha": "3a66f1681eabd4c533e8d9f14483d2fe734741ca",
+      "date": "2025-12-04T09:47:17+03:00",
+      "author_login": "",
+      "author_name": "Danil Ovchinnikov",
+      "message": "chore: changes to yarn (#305)",
+      "parent_count": 0
+    },
+    {
+      "sha": "1c5fedc3fa0617c53ee41fb9de1327c298c7ad06",
+      "date": "2025-12-04T09:43:21+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "chore: add license (#328)",
+      "parent_count": 0
+    },
+    {
+      "sha": "fa26e2d369a01306aaf48a269a2badc468424365",
+      "date": "2025-12-04T09:41:42+03:00",
+      "author_login": "",
+      "author_name": "Danil Ovchinnikov",
+      "message": "chore: using explicit types instead of `literal types` (#329)",
+      "parent_count": 0
+    },
+    {
+      "sha": "6b85adcdad475d4361ab39d95cc019ce584fb998",
+      "date": "2025-12-04T09:40:14+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: support SandboxUI (#333)",
+      "parent_count": 0
+    },
+    {
+      "sha": "465355ade668de237245a4cca6d447d0ecb4ece9",
+      "date": "2025-09-23T12:26:56+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "f88979bc642807205072ab643a7feea550417a2f",
+      "date": "2025-09-23T12:24:36+03:00",
+      "author_login": "",
+      "author_name": "Danil Ovchinnikov",
+      "message": "chore: migration to typescript privacy modifier style (#309)",
+      "parent_count": 0
+    },
+    {
+      "sha": "df3a695eda52419eedfd05c787b8e4a742de3deb",
+      "date": "2025-09-22T19:34:59+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feature: add --coverage (#321)",
+      "parent_count": 0
+    },
+    {
+      "sha": "938b902ba5e3589c91cb0f1a031f14d89cbadefd",
+      "date": "2025-09-22T19:30:59+03:00",
+      "author_login": "",
+      "author_name": "Petr Makhnev",
+      "message": "feat: add retry for contract name input (#318)",
+      "parent_count": 0
+    },
+    {
+      "sha": "da5df10caa9f87d3c203ef799032f18e35c5a684",
+      "date": "2025-09-22T19:30:43+03:00",
+      "author_login": "",
+      "author_name": "Petr Makhnev",
+      "message": "fix: use latest `onInternalMessage` entry point signature (#317)",
+      "parent_count": 0
+    },
+    {
+      "sha": "6ffa6f88161284743e1432566701b1c32830c62a",
+      "date": "2025-09-22T19:30:27+03:00",
+      "author_login": "",
+      "author_name": "Petr Makhnev",
+      "message": "feat: show all commands description in help command (#313)",
+      "parent_count": 0
+    },
+    {
+      "sha": "7b33f5f28720706c3475f89417126b5376cf68bd",
+      "date": "2025-09-22T19:30:03+03:00",
+      "author_login": "",
+      "author_name": "Danil Ovchinnikov",
+      "message": "chore: removed mention of the `func-vscode` extension (#307)",
+      "parent_count": 0
+    },
+    {
+      "sha": "b5a81b7192aa52d1ba07d2565240d3e94ba370d4",
+      "date": "2025-09-22T19:29:45+03:00",
+      "author_login": "",
+      "author_name": "Danil Ovchinnikov",
+      "message": "feat: add `explorer` method to network provider (#306)",
+      "parent_count": 0
+    },
+    {
+      "sha": "a188e8f31119c6a18ba83a8463e952549f6c6a20",
+      "date": "2025-09-22T19:29:23+03:00",
+      "author_login": "",
+      "author_name": "Trinketer22",
+      "message": "fix: verify should always build in no-lib mode (#304)",
+      "parent_count": 0
+    },
+    {
+      "sha": "98568a544810e6141bd370cb96dd009d25329bae",
+      "date": "2025-09-22T09:47:16+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "chore: fix language typo in readme",
+      "parent_count": 0
+    },
+    {
+      "sha": "4b20b6b073f0071656d0f4cc81fd7486cd22ee9c",
+      "date": "2025-09-19T13:31:41+03:00",
+      "author_login": "",
+      "author_name": "kaladin",
+      "message": "fix typo",
+      "parent_count": 0
+    },
+    {
+      "sha": "a81701cbfded4e441c950d990014e82446470097",
+      "date": "2025-09-03T11:40:01+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update readme",
+      "parent_count": 0
+    },
+    {
+      "sha": "248f425181fec23c60a83e667a71968066a8e867",
+      "date": "2025-08-18T20:11:47+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "1563288cc1074de71aab85d5f99eaf972f8e1018",
+      "date": "2025-08-18T20:11:05+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update dev dependencies",
+      "parent_count": 0
+    },
+    {
+      "sha": "7cbe9f05d33c75ffc080e1eeef5040a5c6125430",
+      "date": "2025-08-18T20:09:14+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "3db27e0b539e03514665f4c7d081eea659b32efa",
+      "date": "2025-08-18T20:06:17+03:00",
+      "author_login": "",
+      "author_name": "Trinketer22",
+      "message": "feat: output library boc separately from raw code (#303)",
+      "parent_count": 0
+    },
+    {
+      "sha": "4e0323556f351eef53244129143090ca1232929d",
+      "date": "2025-08-05T15:23:34+10:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge develop into main",
+      "parent_count": 0
+    },
+    {
+      "sha": "d6f4364db51bb6162ed08d4997bde5bba7dddc34",
+      "date": "2025-08-05T15:11:54+10:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add compiler version flag to verify command (#299)",
+      "parent_count": 0
+    },
+    {
+      "sha": "3243609e4a18a7031e004ba5bee6948a9b364fa8",
+      "date": "2025-08-05T00:31:21+03:00",
+      "author_login": "",
+      "author_name": "Alejandbel",
+      "message": "chore: fix release date",
+      "parent_count": 0
+    },
+    {
+      "sha": "72fc6df6e8afb40ee704dd1acf7f547d9f06e5d5",
+      "date": "2025-08-05T00:25:07+03:00",
+      "author_login": "",
+      "author_name": "Alejandbel",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "c771d11d0d9cd20c89b80e0c6ff6f8c549df8782",
+      "date": "2025-08-04T21:04:46+03:00",
+      "author_login": "",
+      "author_name": "Alejandbel",
+      "message": "feat: add compiler version flag to verify command",
+      "parent_count": 0
+    },
+    {
+      "sha": "21a4c10ce3d24c14be6b23e57745264de6682d1b",
+      "date": "2025-08-04T23:02:36+10:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "d5fa75a944ca944865dd30b057fd925d7d5b66a6",
+      "date": "2025-08-04T21:58:12+10:00",
+      "author_login": "",
+      "author_name": "Trinketer22",
+      "message": "feat: compile into library (#298)",
+      "parent_count": 0
+    },
+    {
+      "sha": "580f7cd244ce57c3a048f605e1ced553a519a789",
+      "date": "2025-08-01T12:47:03+02:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "Merge pull request #296 from ton-org/change-reward-action",
+      "parent_count": 0
+    },
+    {
+      "sha": "a3c2582c5070c4c8428cf70a1522cbf4591ab02b",
+      "date": "2025-07-14T18:58:31+02:00",
+      "author_login": "",
+      "author_name": "Ilyar",
+      "message": "chore: use action from TON ID",
+      "parent_count": 0
+    },
+    {
+      "sha": "1b5b5b19cc37a428f96688cdde5e35b5003b54cc",
+      "date": "2025-07-07T10:30:02+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog chore: bump dependencies' versions",
+      "parent_count": 0
+    },
+    {
+      "sha": "1cda3ef153f2ec450545cf49a264e630178f9952",
+      "date": "2025-07-07T10:26:13+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "fix: allow subdir compile (#284)",
+      "parent_count": 0
+    },
+    {
+      "sha": "1987fb1b65d182935480bd2930399fc298a57ba0",
+      "date": "2025-07-07T10:11:56+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: support tolk v1.0 (#286)",
+      "parent_count": 0
+    },
+    {
+      "sha": "c3fe1b336a2ad4ebc6feb3fe77dc2e68ff2b2eb5",
+      "date": "2025-07-04T14:20:59+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: use environment for publish workflow",
+      "parent_count": 0
+    },
+    {
+      "sha": "f2236fce8398d678b24146f1a512e3436532907e",
+      "date": "2025-06-26T17:25:54+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "fa5e124a410d0173b564094a9e0e0f6c6e0b753b",
+      "date": "2025-06-26T17:25:06+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: debugger support (#278)",
+      "parent_count": 0
+    },
+    {
+      "sha": "af1a9e05fe66aab33765818411ef7562c3f7c71d",
+      "date": "2025-06-26T17:23:27+03:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "chore: clarify the contributing process (#276)",
+      "parent_count": 0
+    },
+    {
+      "sha": "948344465516878ec747924c1a82ff8004aebe4a",
+      "date": "2025-06-17T15:13:02+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "hotfix: contract creation on windows chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "f61a4ee8da966eb3ac2a1b54138933a03544cd18",
+      "date": "2025-06-16T16:12:47+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "3ed4548623113dc15d1a2d6445fa945d7e9a0b35",
+      "date": "2025-06-16T16:11:36+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge branch 'main' into 'develop'",
+      "parent_count": 0
+    },
+    {
+      "sha": "7f3f1b2ba42cd4d068ffe38f519bf564a08d534a",
+      "date": "2025-06-16T13:16:41+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add possibility to wait for transaction (#271)",
+      "parent_count": 0
+    },
+    {
+      "sha": "6cbd840ebf6400bd6c3e3ca56cf74137e949b1a8",
+      "date": "2025-06-16T13:16:14+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "chore: remove duplicate docs after merge (#273)",
+      "parent_count": 0
+    },
+    {
+      "sha": "7cabbb87a67e48fdf33be22c78952110e546872e",
+      "date": "2025-06-15T22:05:35+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "fix: tolk counter template (#269)",
+      "parent_count": 0
+    },
+    {
+      "sha": "bcdedf494684e603f954124df6dc036034adc11e",
+      "date": "2025-06-13T15:05:37+03:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "chore: run test and build on matrix os (#268)",
+      "parent_count": 0
+    },
+    {
+      "sha": "9cb68e60de4d41541926658a0160e6f0dc456b0c",
+      "date": "2025-06-13T15:03:51+03:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "chore: setup test on CI (#265)",
+      "parent_count": 0
+    },
+    {
+      "sha": "84ad783d2231685f3faf28f1a48195f239d593d8",
+      "date": "2025-06-13T15:02:48+03:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "chore: add pr and issue templates (#266)",
+      "parent_count": 0
+    },
+    {
+      "sha": "63630253fe60929b7a59dc5a6f84346247efd161",
+      "date": "2025-06-13T15:00:25+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: use non-deprecated Dirent.parentPath (#263)",
+      "parent_count": 0
+    },
+    {
+      "sha": "5751e71d8e239ce6b4e9fb8a0f4cc7a65da01817",
+      "date": "2025-06-12T12:46:31+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: backends from verifier config (#267)",
+      "parent_count": 0
+    },
+    {
+      "sha": "e67475df1cc2652d5d43431ffabd4caf0177c831",
+      "date": "2025-06-09T20:46:15+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: release dev versions (#264)",
+      "parent_count": 0
+    },
+    {
+      "sha": "bbf3d0d3626bcb9f63fd9810a0001a4915740138",
+      "date": "2025-06-04T20:02:02+03:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "chore: upgrade yarn, fail QA if linter errors (#262)",
+      "parent_count": 0
+    },
+    {
+      "sha": "144fbc93514f221f08934ed0ffe7f88544e9f16b",
+      "date": "2025-06-04T18:40:48+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: install eslint",
+      "parent_count": 0
+    },
+    {
+      "sha": "d540b024b00d7a139b212435488cb87a89e14f66",
+      "date": "2025-06-04T18:33:02+03:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "chore: setup linting (#260)",
+      "parent_count": 0
+    },
+    {
+      "sha": "422152d85e62237d71184c149a69a6f22ba7a391",
+      "date": "2025-06-03T11:11:55+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add getConfig and getContractState methods to network provider (#246)",
+      "parent_count": 0
+    },
+    {
+      "sha": "eaeaefbff69b3d272b1d815fa55a93143440d4d6",
+      "date": "2025-06-02T16:33:27+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: lockfile",
+      "parent_count": 0
+    },
+    {
+      "sha": "0ca3332d88813a483260c7c41f7d40428f523518",
+      "date": "2025-06-02T16:26:00+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "4e106a84d4d57bdf7105e49b6f8b483fbfce743e",
+      "date": "2025-06-02T16:11:33+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add tolk v0.13 support (#249)",
+      "parent_count": 0
+    },
+    {
+      "sha": "3bf5a73ac68ecebc48f8642adcb5dd3f32d64d59",
+      "date": "2025-06-02T16:08:09+03:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "chore: setup reward for contribute (#234)",
+      "parent_count": 0
+    },
+    {
+      "sha": "5e8e330ad53941a454980adabda25779f13da636",
+      "date": "2025-05-30T16:06:14+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "chore: update tact config docs (#247)",
+      "parent_count": 0
+    },
+    {
+      "sha": "e01cff141c9fb898ec6a7f474849c1a067753d7a",
+      "date": "2025-05-30T12:55:41+03:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "chore: update sample project (#244)",
+      "parent_count": 0
+    },
+    {
+      "sha": "d9b01c692dacdf58863b0b8505d51368fa92e95f",
+      "date": "2025-05-29T12:40:01+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "chore: add docs about tact plugin for jetbrains (#243)",
+      "parent_count": 0
+    },
+    {
+      "sha": "efff103b3c5d00ea0de211a0ddb52ae8050252a1",
+      "date": "2025-05-29T12:37:52+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add possibility to specify custom manifestUrl (#242)",
+      "parent_count": 0
+    },
+    {
+      "sha": "deede85302c1dd391f909e94859362efba8fcc15",
+      "date": "2025-05-29T11:46:07+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add wallet v4r1 (#241)",
+      "parent_count": 0
+    },
+    {
+      "sha": "f1453defc34b838f04e44eb5abc0351b2475cea7",
+      "date": "2025-05-29T11:43:16+03:00",
+      "author_login": "",
+      "author_name": "Trinketer22",
+      "message": "feat: tolk verifier (#239)",
+      "parent_count": 0
+    },
+    {
+      "sha": "6dd8fbc0a6c660547c3ce3b084fd88044fa5c86c",
+      "date": "2025-05-29T11:27:50+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add liteclient network provider (#245)",
+      "parent_count": 0
+    },
+    {
+      "sha": "3379cedc0e93768c0c0fe3bf62a6601a99284b19",
+      "date": "2025-05-20T20:43:40+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "1f12bd78d42f43d0b9374c4fe04874cea0db971c",
+      "date": "2025-05-20T20:41:55+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: find compiles recursively (#235)",
+      "parent_count": 0
+    },
+    {
+      "sha": "ecd99785220f4cde1691c20378f875343f47c53c",
+      "date": "2025-05-19T20:42:05+03:00",
+      "author_login": "",
+      "author_name": "ilyar",
+      "message": "feat: add command to collect test metrics (#208)",
+      "parent_count": 0
+    },
+    {
+      "sha": "d1e134c340f9ab954b90b88fbc1aef3016cfea7e",
+      "date": "2025-05-19T17:32:47+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: export getCompilerConfigForContract function (#213)",
+      "parent_count": 0
+    },
+    {
+      "sha": "d9f2dc3ebf6d1dd14edddefaa5ce3d425c47035f",
+      "date": "2025-05-19T17:31:31+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add request timout configuration (#214)",
+      "parent_count": 0
+    },
+    {
+      "sha": "c2373212ef69394214e0cc7af4a8180c043b9b46",
+      "date": "2025-05-19T16:34:53+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "b0e7ac51710ae3a4f5000d9f8591fd3469211186",
+      "date": "2025-05-19T16:31:26+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: update stdlib (#217)",
+      "parent_count": 0
+    },
+    {
+      "sha": "32de6c8f6bae2d8319dc94ba96c2019eb089950c",
+      "date": "2025-05-19T16:29:39+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "fix: testnet address formatting (#218)",
+      "parent_count": 0
+    },
+    {
+      "sha": "20d50218ce8bb3d2bae168ac1a6ff9649fabc482",
+      "date": "2025-05-19T16:22:31+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add subwallet id settings in .env (#216)",
+      "parent_count": 0
+    },
+    {
+      "sha": "952688733cefe340ab267fdf46a1b64a63d9cf2b",
+      "date": "2025-05-19T15:49:22+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: updated info about non-interactive scripts (#219)",
+      "parent_count": 0
+    },
+    {
+      "sha": "92ad47b9bda99307383d22730c3c7932968d8ff5",
+      "date": "2025-05-19T15:27:14+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add possibility to rename contracts (#226)",
+      "parent_count": 0
+    },
+    {
+      "sha": "f5e935c235fb344e1df78600d09ade681f63ccfd",
+      "date": "2025-05-19T15:20:16+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "fix: tact scripts templates to support wrappers from build dir (#220)",
+      "parent_count": 0
+    },
+    {
+      "sha": "96d8d8cafcfaa18c2db84cff47ff2a1798a7c26e",
+      "date": "2025-05-19T15:08:18+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add possibility to publish wrappers as packages (#229)",
+      "parent_count": 0
+    },
+    {
+      "sha": "4c2c5f2d66cfcd8429b63350f8723bb98eca3b70",
+      "date": "2025-05-17T19:08:30+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "fix: build command in tact projects (#231)",
+      "parent_count": 0
+    },
+    {
+      "sha": "bbecd821d09ba5eeb9b1fed20b6c3d9f3db1a491",
+      "date": "2025-05-16T22:06:33+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "bd581b786e73d36bacf27f6dc47c4f9c0000ec51",
+      "date": "2025-05-16T18:59:40+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "fix: tact counter deploy script template (#228)",
+      "parent_count": 0
+    },
+    {
+      "sha": "50678c3dbb71aa25991285238144f34807a8acae",
+      "date": "2025-05-16T18:52:22+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add tolk v0.12 support (#223)",
+      "parent_count": 0
+    },
+    {
+      "sha": "f345ed200a18fb3d85923815b593982975ca14ae",
+      "date": "2025-05-09T11:17:20+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add support for tact config (#211)",
+      "parent_count": 0
+    },
+    {
+      "sha": "12a4d639cdef8183d7532dd18cc24ddfdedd13b7",
+      "date": "2025-05-09T11:09:37+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "chore: refactor build scripts (#210)",
+      "parent_count": 0
+    },
+    {
+      "sha": "1d6f876ccddf4192a870f488c892ae6128f89532",
+      "date": "2025-05-06T21:54:24+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "fix: unexpected import caching (#209)",
+      "parent_count": 0
+    },
+    {
+      "sha": "219aff25089a7390aa57a60fea28949fc0aca953",
+      "date": "2025-05-02T17:15:14+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: imports chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "992b1ffd59dfae61175693b4e1825f69b34ec57a",
+      "date": "2025-05-02T16:51:10+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: make error for invalid contract name nicer (#199)",
+      "parent_count": 0
+    },
+    {
+      "sha": "45d7498f8452c7d91a649ace181e07b3dfb60c4c",
+      "date": "2025-05-02T16:48:58+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: show compiler version when building contracts (#201)",
+      "parent_count": 0
+    },
+    {
+      "sha": "f239aa267d28b1dd54c75eca4dd5a744ec15af31",
+      "date": "2025-05-02T16:45:18+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "fix: add non-zero exit code on build failure (#198)",
+      "parent_count": 0
+    },
+    {
+      "sha": "6d7f6fef19273f852facc94149aabbebddb70173",
+      "date": "2025-05-02T16:17:26+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add all contracts to build wizard (#204)",
+      "parent_count": 0
+    },
+    {
+      "sha": "32b03b52035168a338a7ccf79a59d3a8f52bd4ed",
+      "date": "2025-05-02T16:11:23+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add function to build all tact contracts (#206)",
+      "parent_count": 0
+    },
+    {
+      "sha": "8021bb3dc1ec385d9df79db13fdce7985ac42fbc",
+      "date": "2025-05-02T16:04:09+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "docs: add tact update info (#207)",
+      "parent_count": 0
+    },
+    {
+      "sha": "0be775c4f5c788905a6481c959a5bb3cd88297a7",
+      "date": "2025-04-24T15:25:49+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: build dir creation chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "490da753d284a843ca4eb0ec01946bfdfdc4c6f5",
+      "date": "2025-04-24T15:13:37+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "3d8ff6b1eb559440ef85313a62b273863975059b",
+      "date": "2025-04-24T15:03:47+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add api docs (#187)",
+      "parent_count": 0
+    },
+    {
+      "sha": "0b67117498d4c3a0a60e65f5151ffb9e7c1de595",
+      "date": "2025-04-24T14:51:16+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: improve cli messages (#185)",
+      "parent_count": 0
+    },
+    {
+      "sha": "8c6cf7886caddba206fc193bbaafacb7ea4980c1",
+      "date": "2025-04-24T14:46:35+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add fift output for func and tolk (#184)",
+      "parent_count": 0
+    },
+    {
+      "sha": "0d44a3ea120b235f76ff949c143d7d3a136bf6c2",
+      "date": "2025-04-24T14:44:48+03:00",
+      "author_login": "",
+      "author_name": "verytactical",
+      "message": "fix: stop calling build() in legacy way (#183)",
+      "parent_count": 0
+    },
+    {
+      "sha": "d6969e7cead3ebf63c2b9a1f1c9ddc780f445efb",
+      "date": "2025-04-08T11:23:31+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: config",
+      "parent_count": 0
+    },
+    {
+      "sha": "0ba87412196461b1d693e7543c9f20d15023cfe6",
+      "date": "2025-04-08T11:17:51+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "e740697d0b2465218bf1feab57ee05f9e3582908",
+      "date": "2025-04-08T11:12:42+03:00",
+      "author_login": "",
+      "author_name": "Petr Makhnev",
+      "message": "fix(compile): fix Tact compilation check (#182)",
+      "parent_count": 0
+    },
+    {
+      "sha": "2fbd829f828da6c3ed5dd0682227d4231ea620e4",
+      "date": "2025-04-08T11:12:30+03:00",
+      "author_login": "",
+      "author_name": "Petr Makhnev",
+      "message": "chore: replace TACT with Tact (#181)",
+      "parent_count": 0
+    },
+    {
+      "sha": "9ba0aab032e6236d9c84650f4937226b599989b9",
+      "date": "2025-04-08T11:12:18+03:00",
+      "author_login": "",
+      "author_name": "Petr Makhnev",
+      "message": "chore: mention Tact VS Code plugin (#180)",
+      "parent_count": 0
+    },
+    {
+      "sha": "ce2ded5d3f8ca077eec49c5602fa0990148b9a9a",
+      "date": "2025-04-08T11:12:02+03:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "Merge pull request #177 from novusnota-forks/closes-176",
+      "parent_count": 0
+    },
+    {
+      "sha": "cfc7581c5edf48e49cf88cf18b366cc51c0add82",
+      "date": "2025-03-02T12:52:08+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: print tolk's stderr chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "feca46b99db86205add45a1d25d7f3d618bda1a4",
+      "date": "2025-01-17T16:33:21+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: move compilers to peer dependencies chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "5c150edbc822aa64ade84bc0e9c6bce9f38dc84d",
+      "date": "2024-12-18T16:39:37+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update func and ton-core chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "2a5afd8b12b04a729fa15350dc3cf539e1c985f1",
+      "date": "2024-11-26T18:43:34+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "0f390690a8b4a37ce228d2e7aff8eeff97d9dd4e",
+      "date": "2024-11-26T18:40:34+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: change default explorer to be tonviewer",
+      "parent_count": 0
+    },
+    {
+      "sha": "7ea834f85ec92d98691472f565859a3cb5c8c5d4",
+      "date": "2024-11-26T18:37:40+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge pull request #147 from AndyJiangPro/fix_run_script_typo",
+      "parent_count": 0
+    },
+    {
+      "sha": "dcee862b4c044422e85d9a95f6da9619604ecd2b",
+      "date": "2024-11-26T18:37:05+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge pull request #143 from jubnzv/add-misti",
+      "parent_count": 0
+    },
+    {
+      "sha": "b4c2afd9dfd010804935d8d3cadd183f1e9e624f",
+      "date": "2024-11-26T18:35:22+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge pull request #153 from elsvv/main",
+      "parent_count": 0
+    },
+    {
+      "sha": "e8ceb08805297511733e9407e93b32e4bc212428",
+      "date": "2024-11-03T14:41:36+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge pull request #154 from ton-org/tolk-integration",
+      "parent_count": 0
+    },
+    {
+      "sha": "3c37cc7ae9cefa08145afbe769dd726be0d10cde",
+      "date": "2024-11-03T14:40:02+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: new stdlib created for every func contract",
+      "parent_count": 0
+    },
+    {
+      "sha": "3733558b0630c3816888ba1f7816cbdb1a167067",
+      "date": "2024-11-02T09:50:10+04:00",
+      "author_login": "",
+      "author_name": "tolk-vm",
+      "message": "Support for Tolk Language: next-generation FunC",
+      "parent_count": 0
+    },
+    {
+      "sha": "ac456616db9ab4a949053c56d6a42a7e21ae5405",
+      "date": "2024-10-26T16:35:55+03:00",
+      "author_login": "",
+      "author_name": "elsvv",
+      "message": "feat: add tonapi adapter to provider api",
+      "parent_count": 0
+    },
+    {
+      "sha": "582289402ebe05615fce486864ed051499724506",
+      "date": "2024-09-23T12:57:12+12:00",
+      "author_login": "",
+      "author_name": "Andy Jiang",
+      "message": "fix run script typo",
+      "parent_count": 0
+    },
+    {
+      "sha": "ca4dcdd9e17e4bd0fcc2168801fe311997a81e67",
+      "date": "2024-09-16T14:38:53+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: w5 feat: toncenter as default provider chore: updated deps chore: removed tonhub connector",
+      "parent_count": 0
+    },
+    {
+      "sha": "09cbcc8c5cdac6d5c8417be969b395ea89810a6b",
+      "date": "2024-09-11T18:16:05+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: use toncenter instead of orbs",
+      "parent_count": 0
+    },
+    {
+      "sha": "8a5612ce7e56e6ba4e89718336d47f9a96749242",
+      "date": "2024-08-22T05:00:49+00:00",
+      "author_login": "",
+      "author_name": "Georgiy Komarov",
+      "message": "feat(README): Add https://github.com/nowarp/blueprint-misti",
+      "parent_count": 0
+    },
+    {
+      "sha": "9b1c238938047d3ca1a1b30e5706fcb759950025",
+      "date": "2024-07-08T21:25:33+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update yarn",
+      "parent_count": 0
+    },
+    {
+      "sha": "ff180385554da92ee93c8f7847c69e6561874648",
+      "date": "2024-07-08T21:15:55+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: bugs chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "31fdb57603bd6101f81655e08f386c16d2f78be3",
+      "date": "2024-07-02T14:10:52+03:00",
+      "author_login": "",
+      "author_name": "PixelPlex Dev team",
+      "message": "feat: separate compilables (#118)",
+      "parent_count": 0
+    },
+    {
+      "sha": "9380020625d2bb1f6beb01e441bbf2ecf34e4b81",
+      "date": "2024-06-24T16:42:47+03:00",
+      "author_login": "",
+      "author_name": "PixelPlex Dev team",
+      "message": "feat: add ability to specify test file (#119)",
+      "parent_count": 0
+    },
+    {
+      "sha": "e87aa041465a399dbc2aa7ec038eb81d98ac345a",
+      "date": "2024-06-24T16:36:04+03:00",
+      "author_login": "",
+      "author_name": "PixelPlex Dev team",
+      "message": "fix: code overflow (#120)",
+      "parent_count": 0
+    },
+    {
+      "sha": "4a705d1e5e4af79086f9ba932a5606d5db9cbc93",
+      "date": "2024-06-24T16:24:18+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add scripts subdirectories support (#117)",
+      "parent_count": 0
+    },
+    {
+      "sha": "5000db1de4cd5f57381e33c73010756afe820403",
+      "date": "2024-06-24T15:51:13+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge pull request #121 from pixelplex/feature/help-commands",
+      "parent_count": 0
+    },
+    {
+      "sha": "4260e6557e7bc362fde10f7e1ee380f4840f05fe",
+      "date": "2024-06-20T20:11:11+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "feat: add help commands",
+      "parent_count": 0
+    },
+    {
+      "sha": "6b103e15d730cc620d3b0db84c18b68ef4370db5",
+      "date": "2024-06-12T13:21:54+03:00",
+      "author_login": "",
+      "author_name": "Aliaksandr Bahdanau",
+      "message": "chore: improve docs",
+      "parent_count": 0
+    },
+    {
+      "sha": "ed1fb51956149e93b6d9517e30c49b086efba913",
+      "date": "2024-05-27T19:10:31+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update example dependency versions",
+      "parent_count": 0
+    },
+    {
+      "sha": "d77a1473a59249328b986b4eca1c81d427a4645f",
+      "date": "2024-05-27T14:27:38+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "2eba0173cbdc334ea7fdd975b536378ec5fd13c7",
+      "date": "2024-05-27T14:26:52+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: new tonconnect manifest",
+      "parent_count": 0
+    },
+    {
+      "sha": "5f135089615f82845d39699f27cfc9b7bf0773ff",
+      "date": "2024-05-27T14:25:14+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge pull request #106 from novusnota-forks/tact-template-update",
+      "parent_count": 0
+    },
+    {
+      "sha": "67986d5453705ff3c8c1576405cb5671f681d3bb",
+      "date": "2024-05-25T10:20:55+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "chore: update changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "8cf4c8e78325245f1da3ba09a5fb6d364be15528",
+      "date": "2024-05-25T10:18:47+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "feat: make receiver in Tact template refund remaining value",
+      "parent_count": 0
+    },
+    {
+      "sha": "c17c1b814a6940d1bc56f6d998afaf4bd4f781ff",
+      "date": "2024-05-07T16:19:21+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "1503538f880021cd78f464b0a0f3a89f1b110e72",
+      "date": "2024-05-07T16:14:01+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge pull request #96 from novusnota-forks/tact.config.json",
+      "parent_count": 0
+    },
+    {
+      "sha": "7ce8cc451f8e2db65dce9ca7f87b01b576dd16e7",
+      "date": "2024-05-03T16:10:26+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "chore: formatted and pulled in the Tact 1.3.0 version",
+      "parent_count": 0
+    },
+    {
+      "sha": "02f3cf727e5a947c7714557f349a90eea103e13e",
+      "date": "2024-05-03T13:25:16+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "feat: add explicit mode \"full\"",
+      "parent_count": 0
+    },
+    {
+      "sha": "9443d75926419a8a2fd429d294ab05d7ee2e2c11",
+      "date": "2024-04-21T18:13:46+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "chore: Updated CHANGELOG",
+      "parent_count": 0
+    },
+    {
+      "sha": "3d1fc946a07e4170fd19c07aec72a33d1c3df8dc",
+      "date": "2024-04-21T18:13:37+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "feat: A warning to prevent users from using debug-enabled code in production",
+      "parent_count": 0
+    },
+    {
+      "sha": "1d36f5179a3a4ba4fd95f3fd6aaeefd2e3e49a9a",
+      "date": "2024-04-21T18:13:09+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "chore: Debug by default for Tact compilation wrapper template",
+      "parent_count": 0
+    },
+    {
+      "sha": "6bffb003beee33576c23de1f91eb9b8ba57130ed",
+      "date": "2024-04-21T17:31:20+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "Merge branch 'main' into tact.config.json",
+      "parent_count": 0
+    },
+    {
+      "sha": "97b97e6cad1f37d6f5fa1b537e9ad40aced27936",
+      "date": "2024-04-12T10:47:12+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "e2b1f82a3ffa846b201402d085c290d16243f2c9",
+      "date": "2024-04-12T10:44:34+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update custom network readme",
+      "parent_count": 0
+    },
+    {
+      "sha": "7b95abb979e744a96495acecd9e85c4c7def6de3",
+      "date": "2024-04-12T10:36:22+03:00",
+      "author_login": "",
+      "author_name": "Trinketer22",
+      "message": "feat: use source registry instead of hardcoded verifier registry",
+      "parent_count": 0
+    },
+    {
+      "sha": "7ef79655a6520f239396441a4d95a31ad0135a65",
+      "date": "2024-04-09T19:46:44+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "chore: Removed the temporary hack",
+      "parent_count": 0
+    },
+    {
+      "sha": "9ae3fbba4b2f7deaf39a183525b8d465f6b752c4",
+      "date": "2024-04-09T19:46:31+02:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "chore: Changelog & Tact version bump to 1.3.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "cb922e00b7a79b8bec97038dc553169a16f56384",
+      "date": "2024-03-30T01:31:49+01:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "feat: Auto-sourcing `tact.config.json`",
+      "parent_count": 0
+    },
+    {
+      "sha": "e817bb6b8377ee18cdd258843287893fb57d74d2",
+      "date": "2024-03-30T01:30:29+01:00",
+      "author_login": "",
+      "author_name": "Novus Nota",
+      "message": "fix: Corrected the Intellij plugin link",
+      "parent_count": 0
+    },
+    {
+      "sha": "a684846c609c531bb4c63cb7ff431c4c83e2712c",
+      "date": "2024-03-27T19:39:38+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version",
+      "parent_count": 0
+    },
+    {
+      "sha": "b7438427bf55e308816001f134fb340476ddca54",
+      "date": "2024-03-27T19:38:52+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update dependencies chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "fdf0ba872813d133fcf2f641f851a3b0ee8f5643",
+      "date": "2024-03-27T19:34:52+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: add missing space",
+      "parent_count": 0
+    },
+    {
+      "sha": "41d57ed9a7f3a39069efb7f31c0eb0fb4f32174b",
+      "date": "2024-03-13T22:35:56+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "2e4438f68208c8182d2b85dbd70266a214115f5f",
+      "date": "2024-03-13T22:34:35+03:00",
+      "author_login": "",
+      "author_name": "Anton Trunov",
+      "message": "chore: update tact",
+      "parent_count": 0
+    },
+    {
+      "sha": "c49953243c9497760b4fc78fdff08f3d8fb6133f",
+      "date": "2024-03-01T21:34:15+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "88637108d738a2f78e3d3f32aa1dc09cd76a2fa5",
+      "date": "2024-03-01T21:33:47+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: remove StateInit empty cells",
+      "parent_count": 0
+    },
+    {
+      "sha": "5b9ff773951a6c3680ebe4b61a19ad399092ea2c",
+      "date": "2024-03-01T21:18:33+03:00",
+      "author_login": "",
+      "author_name": "Reactive Fox",
+      "message": "feat: add open and getTransactions to ContractProvider",
+      "parent_count": 0
+    },
+    {
+      "sha": "e4826523679cdecf2ab7ed6e2cd4f0dee8b3a424",
+      "date": "2024-03-01T21:15:22+03:00",
+      "author_login": "",
+      "author_name": "Trinketer22",
+      "message": "feat: custom func-js bins",
+      "parent_count": 0
+    },
+    {
+      "sha": "9e49adae316990a87abde9c61c6ae75982dd7511",
+      "date": "2024-02-26T12:21:47+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: remove the added 'jsonRPC' for custom v2 endpoints",
+      "parent_count": 0
+    },
+    {
+      "sha": "4c54ecf42c3e288cad4c16e1cfb6c88ef0d10de7",
+      "date": "2024-02-26T12:19:52+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: custom network command example",
+      "parent_count": 0
+    },
+    {
+      "sha": "bf26f36c49ac9c1a111772dd55d4b0fc955a7ab1",
+      "date": "2024-02-26T12:05:12+03:00",
+      "author_login": "",
+      "author_name": "Trinketer22",
+      "message": "feat: add hash to build artifact",
+      "parent_count": 0
+    },
+    {
+      "sha": "4f5864f27504ecae9041cbca9c0bf818655d0725",
+      "date": "2024-02-15T16:43:41+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog chore: add custom network to readme",
+      "parent_count": 0
+    },
+    {
+      "sha": "c736e84cdea1be6ff3b64e68d297a3b8ba2b2151",
+      "date": "2024-02-15T16:31:00+03:00",
+      "author_login": "",
+      "author_name": "Trinketer22",
+      "message": "feat: legacy wrapper convert command",
+      "parent_count": 0
+    },
+    {
+      "sha": "6ad3dcdfcb25a168100ca485214f02e34954eb81",
+      "date": "2024-02-15T15:51:15+03:00",
+      "author_login": "",
+      "author_name": "Trinketer22",
+      "message": "chore: improve verify command",
+      "parent_count": 0
+    },
+    {
+      "sha": "1b2a134a8ce62fc8ad31a909a32ccc516edc7445",
+      "date": "2024-02-15T14:44:26+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: user data for compile hooks",
+      "parent_count": 0
+    },
+    {
+      "sha": "f7c1e79c2be3c5ecd31a83ed041a341471b72d36",
+      "date": "2024-02-15T14:38:03+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update exports",
+      "parent_count": 0
+    },
+    {
+      "sha": "40f3937c5a7648f507820da08913f7fc8709c7f4",
+      "date": "2024-02-15T14:32:51+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: custom network in config",
+      "parent_count": 0
+    },
+    {
+      "sha": "05bee7c3ae8a6dd07c5766afed57ac9b83700d06",
+      "date": "2023-12-15T18:11:43+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "edc7b309a8819d95aacfa86725e7bab0323ae670",
+      "date": "2023-12-15T18:11:17+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: better help",
+      "parent_count": 0
+    },
+    {
+      "sha": "f0fe7fb6f27b297ff59bbb82d1d0d1481ecc7139",
+      "date": "2023-12-15T18:07:05+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: better --custom API fix: arg handling",
+      "parent_count": 0
+    },
+    {
+      "sha": "4dd52a73451eea2454c1f8ebefdda2bb0a6f622c",
+      "date": "2023-12-01T17:54:20+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update tact, bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "4a132c80135365359ebaf6b07ad2edef766a6e6e",
+      "date": "2023-12-01T17:43:04+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: test templates chore: bump version chore: changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "7c8423972cdf50a64ea4650b560ae67789ceb62b",
+      "date": "2023-11-23T19:16:58+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: verify help chore: bump version chore: changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "1fd860595531f79e7276dd968ee06f0b0e56a43e",
+      "date": "2023-11-23T16:47:09+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: verify",
+      "parent_count": 0
+    },
+    {
+      "sha": "c230d473ad212e4fb251fe45164581bb9fa76373",
+      "date": "2023-11-06T14:49:33+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: mention plugin system",
+      "parent_count": 0
+    },
+    {
+      "sha": "cccc30ffb58c4c8ed415d9e22c4540ee9e8441d9",
+      "date": "2023-11-05T18:09:09+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: fix yarn.lock",
+      "parent_count": 0
+    },
+    {
+      "sha": "33d26ddb76b1a2a8a25a843b2365b37804ca9934",
+      "date": "2023-11-05T18:08:07+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "30353994c8c9ce808072857400ef996a28c1adda",
+      "date": "2023-11-05T17:56:41+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: code style",
+      "parent_count": 0
+    },
+    {
+      "sha": "934d48f48d8450e6f7ad39a1e9fc2078a144079a",
+      "date": "2023-11-05T17:55:38+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: remove scaffold",
+      "parent_count": 0
+    },
+    {
+      "sha": "dd7c0bcec43a43db54f8eb1cb4b0b88624bf84b6",
+      "date": "2023-11-05T17:50:37+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update prettier",
+      "parent_count": 0
+    },
+    {
+      "sha": "85f945a7ee30741c8e080202232ada90c81fd459",
+      "date": "2023-11-05T17:49:18+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: plugin support",
+      "parent_count": 0
+    },
+    {
+      "sha": "0422b593b4f35139ac219e69f1db224da2e0f257",
+      "date": "2023-11-03T00:53:37+03:00",
+      "author_login": "",
+      "author_name": "Tikhon",
+      "message": "chore: mention --all option in README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "a7f9f935f0af4764106004e7a46d2f1e5c9e6fdb",
+      "date": "2023-10-25T16:51:26+03:00",
+      "author_login": "",
+      "author_name": "Daniil Sedov",
+      "message": "chore: move deployer to the describe context",
+      "parent_count": 0
+    },
+    {
+      "sha": "92c3644bc73c97a49e17e75c95c1558b1badae8e",
+      "date": "2023-08-29T01:52:36+03:00",
+      "author_login": "",
+      "author_name": "Brave",
+      "message": "chore: change tonapi to tonviewer",
+      "parent_count": 0
+    },
+    {
+      "sha": "e48f551a4150fbf944ecef21d53459d36c880c56",
+      "date": "2023-08-28T00:01:35+03:00",
+      "author_login": "",
+      "author_name": "Victor S",
+      "message": "feat: dapp scaffolding",
+      "parent_count": 0
+    },
+    {
+      "sha": "7045cf03870a1bf60faa624beb23bb94a7743c4b",
+      "date": "2023-08-27T23:26:38+03:00",
+      "author_login": "",
+      "author_name": "Victor S",
+      "message": "feat: custom v2 endpoint",
+      "parent_count": 0
+    },
+    {
+      "sha": "6bbeac42c65d8d88225fc8ee96588d3f55c6cd2c",
+      "date": "2023-08-08T15:39:40+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Update README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "b15a943c7a573ddd007ba3abe74e933c004a48fa",
+      "date": "2023-08-07T18:56:19+03:00",
+      "author_login": "",
+      "author_name": "AlexG",
+      "message": "chore: added links to sandbox test docs into readme",
+      "parent_count": 0
+    },
+    {
+      "sha": "25eaedee5c0e4af163f85276ccabba61f31399f4",
+      "date": "2023-07-31T18:49:59+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: ton org migration",
+      "parent_count": 0
+    },
+    {
+      "sha": "a8003caa2996004c9c25768f97b7fd4b0861f5b1",
+      "date": "2023-07-31T18:48:24+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge branch 'backport-0.11.0' into ton-org-migration",
+      "parent_count": 0
+    },
+    {
+      "sha": "f880ed842f2b10977ddbaf07fc59f3a72c80b075",
+      "date": "2023-07-29T22:53:23+01:00",
+      "author_login": "",
+      "author_name": "KardanovIR",
+      "message": "Updated changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "ef89a7e3cbb881be545cb75e25eb308f4742dee0",
+      "date": "2023-07-29T22:52:14+01:00",
+      "author_login": "",
+      "author_name": "KardanovIR",
+      "message": "Updated all dependencies to @ton organization packages",
+      "parent_count": 0
+    },
+    {
+      "sha": "9ab47fa748001aac25fe2c75e43019d322f6be64",
+      "date": "2023-07-14T13:56:09+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "d7e88956c584e9ad501636a54284e4e7b51115f1",
+      "date": "2023-07-14T13:54:10+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: tact imports",
+      "parent_count": 0
+    },
+    {
+      "sha": "65615400e56c90567676156fc1587170ebe11b3b",
+      "date": "2023-07-14T13:53:43+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: newlines when getting build errors",
+      "parent_count": 0
+    },
+    {
+      "sha": "da73e3a91de8729adbbcea069a8ea3b56e6064c3",
+      "date": "2023-07-03T22:55:22+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: tact options field chore: update tact chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "5b234d83fae6e73234ed32a38cdf0b1558f7cc93",
+      "date": "2023-06-29T17:50:44+04:00",
+      "author_login": "",
+      "author_name": "Inal Kardanov",
+      "message": "Merge pull request #48 from KardanovIR/fix-workflows-typo",
+      "parent_count": 0
+    },
+    {
+      "sha": "86eb3a2544dc8559595da1497538cdbc35c74dea",
+      "date": "2023-06-29T17:49:58+04:00",
+      "author_login": "",
+      "author_name": "KardanovIR",
+      "message": "fix typo",
+      "parent_count": 0
+    },
+    {
+      "sha": "61e92f7a78e0f332db3d41a2c9f5723b4f589c34",
+      "date": "2023-06-29T17:46:38+04:00",
+      "author_login": "",
+      "author_name": "Inal Kardanov",
+      "message": "Merge pull request #47 from KardanovIR/ton-org-migration",
+      "parent_count": 0
+    },
+    {
+      "sha": "952b7be625a8ad7f97b7fb95390e1a17e4c38608",
+      "date": "2023-06-29T12:03:28+04:00",
+      "author_login": "",
+      "author_name": "KardanovIR",
+      "message": "fixed deploy script",
+      "parent_count": 0
+    },
+    {
+      "sha": "d5b2f977971ab78620e07912955459379d55c4b4",
+      "date": "2023-06-28T13:23:48+04:00",
+      "author_login": "",
+      "author_name": "ikardanov",
+      "message": "updated links in readme files",
+      "parent_count": 0
+    },
+    {
+      "sha": "146647c7c1da28da0b0df0dcff3503f40ed3e5dd",
+      "date": "2023-06-28T13:21:52+04:00",
+      "author_login": "",
+      "author_name": "ikardanov",
+      "message": "added autodeploy to npm",
+      "parent_count": 0
+    },
+    {
+      "sha": "056f3b56ff07f96954994e9a988a453c3ae77e81",
+      "date": "2023-06-28T13:21:42+04:00",
+      "author_login": "",
+      "author_name": "ikardanov",
+      "message": "updated package name",
+      "parent_count": 0
+    },
+    {
+      "sha": "0439d5351d1c94ae0d8260414aa86cf3d01e3de8",
+      "date": "2023-06-06T11:05:00+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "9dcce0a46387e8a8ad4c60a5e41e7e471c97c86f",
+      "date": "2023-06-06T10:59:49+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update dependencies",
+      "parent_count": 0
+    },
+    {
+      "sha": "a0a7502ac157cfd242b0840cf11d3e510412f1c8",
+      "date": "2023-06-06T10:56:23+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: add compilation hooks",
+      "parent_count": 0
+    },
+    {
+      "sha": "3c48edb4d7b7d970d9071df510f5446fdb0961b1",
+      "date": "2023-06-06T00:54:34+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: code style",
+      "parent_count": 0
+    },
+    {
+      "sha": "6627f2e628b7f84e0cc7fcc9d5a087c720074444",
+      "date": "2023-05-15T14:13:04+03:00",
+      "author_login": "",
+      "author_name": "Daniil Sedov",
+      "message": "chore: only show .ts scripts on `run` command",
+      "parent_count": 0
+    },
+    {
+      "sha": "3057212d5948d535be1ee7eafec366eb1087ff3e",
+      "date": "2023-04-21T20:27:44+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "bcc8335b885ab98423baa5422beba1780047f18f",
+      "date": "2023-04-21T20:25:05+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: change logo in readme",
+      "parent_count": 0
+    },
+    {
+      "sha": "bd5551f13cea37f39399fc005a9d7d80bdb1460b",
+      "date": "2023-04-21T20:22:27+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: add background to logo",
+      "parent_count": 0
+    },
+    {
+      "sha": "18752650475cc115c14bfe06728e22aba2ec9c96",
+      "date": "2023-04-21T19:54:16+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update dependencies",
+      "parent_count": 0
+    },
+    {
+      "sha": "fc1b7ddbd3f06899d540cb0ba6b2cd305fdbe487",
+      "date": "2023-04-21T19:44:12+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge branch 'main' of github.com:ton-community/blueprint into main",
+      "parent_count": 0
+    },
+    {
+      "sha": "b7bce567daa2fa15dab4591eef3ac8a852326d44",
+      "date": "2023-04-21T19:43:49+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: add logo",
+      "parent_count": 0
+    },
+    {
+      "sha": "e1e35455f19ea6d78357c74fd6575dc7456269c4",
+      "date": "2023-04-14T11:53:04+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Update README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "b65324d57153dc3b8f06682d6d4394c183682039",
+      "date": "2023-04-09T19:10:46+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Update README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "218362231986e8fae6ecdf0abd5e70c8a25691d7",
+      "date": "2023-04-07T18:20:18+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "3261c0d4db3421f0f3f96101b19a214482e7379e",
+      "date": "2023-04-07T18:07:44+03:00",
+      "author_login": "",
+      "author_name": "Daniil Sedov",
+      "message": "chore: add `success: true` to test templates",
+      "parent_count": 0
+    },
+    {
+      "sha": "c3cef908be862fa88ee2bce596c64ed2a39be84f",
+      "date": "2023-04-07T18:07:00+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update tonconnect sdk",
+      "parent_count": 0
+    },
+    {
+      "sha": "4e2ec2179d856b2acafdd9497ec67b753ce61601",
+      "date": "2023-04-07T18:06:10+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: added detailed help command",
+      "parent_count": 0
+    },
+    {
+      "sha": "67902e5d49472ce58975ab44059a7a19aefe7014",
+      "date": "2023-04-03T19:55:04+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge branch 'main' of github.com:ton-community/blueprint into main",
+      "parent_count": 0
+    },
+    {
+      "sha": "27a68dc8e055e656f186980105308351a3641307",
+      "date": "2023-04-03T19:54:15+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: changed TonClient to TonClient4 in NetworkProvider chore: updated dependencies chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "3a1e7e05abb76ef705a8e43569c92894a346291b",
+      "date": "2023-04-03T11:13:43+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Update README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "aa9d045e359e7f23ea69708fdd12478628d39851",
+      "date": "2023-03-27T21:53:38+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "574cd5c5103ed75c1d9a49b89e659f18f2d79db6",
+      "date": "2023-03-27T19:09:28+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: UIProvider.prompt return type",
+      "parent_count": 0
+    },
+    {
+      "sha": "8fc3835a8b957a497bf2c358e857e10528e7b3de",
+      "date": "2023-03-27T19:02:28+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: add generated example fix: example links in readme",
+      "parent_count": 0
+    },
+    {
+      "sha": "63959964d6cdddcf9a176f9e7b963233f00fb0bc",
+      "date": "2023-03-21T17:58:29+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "12b69f92909d8abb86cb2b6dae204e9b37110ce0",
+      "date": "2023-03-21T17:54:53+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: tact support",
+      "parent_count": 0
+    },
+    {
+      "sha": "29fcfc58b89d1bdd8f594cd5d02f983b417720b7",
+      "date": "2023-03-13T10:28:38+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "e99fa9fe845ee90821af5f88a5a943d1f2750b06",
+      "date": "2023-03-13T10:21:08+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "refactor: mnemonic provider creation",
+      "parent_count": 0
+    },
+    {
+      "sha": "99a713b743ef2244362f35c504509745815332c2",
+      "date": "2023-03-08T20:23:38+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: make send providers return results",
+      "parent_count": 0
+    },
+    {
+      "sha": "166ca5a06be7334d372115e01d80e91ba1cbbd02",
+      "date": "2023-03-02T14:28:00+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update ton peer dependency version to 13.4.1 chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "949247540ed877de961d54ac54e862facd7b001c",
+      "date": "2023-03-01T20:04:29+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "5dda7df607bc3cf3fdd7de05bf49f8294264657e",
+      "date": "2023-03-01T19:58:46+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "5d2730f4204e5fdc2a794c9b7c7f76676fe02fb6",
+      "date": "2023-03-01T19:33:46+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: crash when passing flags without filename to run",
+      "parent_count": 0
+    },
+    {
+      "sha": "855f4ee4c5a75cf9f500943a7ab8f068af9bca8a",
+      "date": "2023-03-01T18:57:31+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: code style",
+      "parent_count": 0
+    },
+    {
+      "sha": "9aa96f558a3b11cf4cec4dc2b5c0f0c6e0d4d611",
+      "date": "2023-03-01T18:56:44+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: tonhub provider message",
+      "parent_count": 0
+    },
+    {
+      "sha": "9c9484ed4178467866fbceaae7b75845392e2419",
+      "date": "2023-03-01T18:56:19+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge branch 'mnemonic-provider' into main",
+      "parent_count": 0
+    },
+    {
+      "sha": "d6b36bce868951bde4df786e8ff2a89c92f7fc41",
+      "date": "2023-03-01T18:52:58+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: make tonscan the default explorer fix: this.getExplorerLink -> getExplorerLink",
+      "parent_count": 0
+    },
+    {
+      "sha": "e221f29d28bf4c02c9277867d1a3d525df92fa4c",
+      "date": "2023-03-01T18:46:29+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge branch 'feat/explorer-selector' into main",
+      "parent_count": 0
+    },
+    {
+      "sha": "a076eb9edb7ff2bbf3b407695cee1cef8c425e06",
+      "date": "2023-03-01T18:46:24+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: update ton-core peer dependency to >=0.48.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "a5969bacf8be11a5ba51c003539e0f8c5ae67ec2",
+      "date": "2023-02-28T22:38:21+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: mnemonic send provider",
+      "parent_count": 0
+    },
+    {
+      "sha": "efa66bef3fe13dc3b338c11fa0a0619dc03b5cb7",
+      "date": "2023-02-28T19:26:57+04:00",
+      "author_login": "",
+      "author_name": "Arterialist",
+      "message": "fix: remove typo that was fixed in ton-core",
+      "parent_count": 0
+    },
+    {
+      "sha": "642bb32b35e6678a51f71d53a853f0b166b16d0e",
+      "date": "2023-02-28T19:26:32+04:00",
+      "author_login": "",
+      "author_name": "Arterialist",
+      "message": "chore: upgrade ton-core to 0.48.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "7182f2130db5cefd7c6a0c237018bf2d3329ed46",
+      "date": "2023-02-28T19:05:45+04:00",
+      "author_login": "",
+      "author_name": "Arterialist",
+      "message": "feat: add explorer selector",
+      "parent_count": 0
+    },
+    {
+      "sha": "e0672f362ca2e09f77ab874cbd77bd594a99ef66",
+      "date": "2023-02-27T16:22:45+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: bump version, changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "b6eacf0d458a5699ecbc95cd9244047c1038ccb7",
+      "date": "2023-02-27T16:22:08+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: code style",
+      "parent_count": 0
+    },
+    {
+      "sha": "2e3bf47d304ca5d1d0dd6b0c0d7b536645ff190c",
+      "date": "2023-02-27T15:55:30+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: manually destroy inquirer UI to fix windows behavior",
+      "parent_count": 0
+    },
+    {
+      "sha": "4daac5ac030fb7fd9e57d8343857daa32923d676",
+      "date": "2023-02-27T15:51:48+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: windows compile templates",
+      "parent_count": 0
+    },
+    {
+      "sha": "76730253ef977b0dc10111a35c370b746b9df3cf",
+      "date": "2023-02-27T15:51:20+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: refactor test templates",
+      "parent_count": 0
+    },
+    {
+      "sha": "86cb9a8a9f8aabf03a76a0d0edc6ec13f1072013",
+      "date": "2023-02-27T15:50:38+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: deleted excessive counter contract comments",
+      "parent_count": 0
+    },
+    {
+      "sha": "6e70379b8aa71ef7a99f2b301a42d9656f4c6862",
+      "date": "2023-02-27T15:50:19+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: update empty contract template",
+      "parent_count": 0
+    },
+    {
+      "sha": "230379f0c4f421af2ca274d3e70d727ac3adab3a",
+      "date": "2023-02-27T15:50:19+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: improved templates, small changes to NetworkProvider",
+      "parent_count": 0
+    },
+    {
+      "sha": "0fc8c35195ae143261dda5ab3ab49ba80adf9edd",
+      "date": "2023-02-27T15:48:39+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: convert bounce error to warning",
+      "parent_count": 0
+    },
+    {
+      "sha": "0e896df17ffd374fa8b5a69c4d78afe92c9cf8c9",
+      "date": "2023-02-27T15:48:05+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: disable choice menu when there is a single file",
+      "parent_count": 0
+    },
+    {
+      "sha": "c2d1aaf4c7f23e8769c7275ac2cc33100f45f0c4",
+      "date": "2023-02-17T17:24:43+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: add waitForDeploy, deprecate deploy on NetworkProvider",
+      "parent_count": 0
+    },
+    {
+      "sha": "eb0cd8f059bae0e8a0a09cdd660f5869f340ed6c",
+      "date": "2023-02-09T14:03:51+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge branch 'main' of github.com:ton-community/blueprint into main",
+      "parent_count": 0
+    },
+    {
+      "sha": "2151998f9d027b93c7bdbc0b3df45f0902269b61",
+      "date": "2023-02-09T14:03:06+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: version bump and changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "1f6c2d63510815911be69bad872de5af3cecc2d6",
+      "date": "2023-02-09T13:54:54+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: wrap TonClient ContractProvider to avoid default bounce value",
+      "parent_count": 0
+    },
+    {
+      "sha": "acfe6585bc119208bdcf8e568632b3d535814555",
+      "date": "2023-02-09T13:53:09+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: contract names must start with a capital letter",
+      "parent_count": 0
+    },
+    {
+      "sha": "bddd95bed7468a5d79c93601f8f6bacedf9b5fa3",
+      "date": "2023-02-09T13:52:32+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: code style",
+      "parent_count": 0
+    },
+    {
+      "sha": "09dbbdbeb24635a16c1ba5be02202d297c44f304",
+      "date": "2023-02-09T13:50:59+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: templates",
+      "parent_count": 0
+    },
+    {
+      "sha": "39a59c8952448490815d562589e53cb7bd289ad7",
+      "date": "2023-02-09T10:05:12+00:00",
+      "author_login": "",
+      "author_name": "Tal Kol",
+      "message": "Update README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "d6076dd834a624fd2891e83048bbf84ef35fad2b",
+      "date": "2023-02-09T12:07:23+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: nicer help, test command, unknown command error",
+      "parent_count": 0
+    },
+    {
+      "sha": "74e66dbda2a4ac010acd87c4243eca048d90d815",
+      "date": "2023-02-09T02:14:38+00:00",
+      "author_login": "",
+      "author_name": "Tal Kol",
+      "message": "nicer error on wrong command",
+      "parent_count": 0
+    },
+    {
+      "sha": "133b052484cc11e167bbaa441ea295d71099707d",
+      "date": "2023-02-09T02:06:07+00:00",
+      "author_login": "",
+      "author_name": "Tal Kol",
+      "message": "explain that contract names must be pascal case",
+      "parent_count": 0
+    },
+    {
+      "sha": "b4da2d4126242586b4be918a775a3252c97d2732",
+      "date": "2023-02-09T02:05:48+00:00",
+      "author_login": "",
+      "author_name": "Tal Kol",
+      "message": "pretty help message",
+      "parent_count": 0
+    },
+    {
+      "sha": "f1b7de0bf4d2c3782011da75bb125b1b1ba487bc",
+      "date": "2023-02-09T01:23:51+00:00",
+      "author_login": "",
+      "author_name": "Tal Kol",
+      "message": "added support for npx blueprint test",
+      "parent_count": 0
+    },
+    {
+      "sha": "4a3c0e6de39b902fecb5b03e3218ce8d07ae4d04",
+      "date": "2023-02-07T13:37:16+00:00",
+      "author_login": "",
+      "author_name": "Tal Kol",
+      "message": "Update README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "8697de77793af53d83b0ea5ab437e0332bc46c7a",
+      "date": "2023-02-03T19:10:18+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: version bump",
+      "parent_count": 0
+    },
+    {
+      "sha": "4ee343b48c66e8a40650fff094e73f5a00fa990a",
+      "date": "2023-02-03T18:47:57+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: fully interactive and fully non-interactive modes for create feat: input(message) method for UIProviders fix: any case file selection chore: docs and changelog",
+      "parent_count": 0
+    },
+    {
+      "sha": "0cdb74a35b8eb79ce25a92aefdd689af5b7f6247",
+      "date": "2023-02-02T14:44:28+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge branch 'main' of github.com:ton-community/tinfoil into main",
+      "parent_count": 0
+    },
+    {
+      "sha": "96264d3b82f34ba1331f94972394d03ff7722a6b",
+      "date": "2023-02-02T14:06:01+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "fix: ui process hang",
+      "parent_count": 0
+    },
+    {
+      "sha": "3bea556cf21889a840d1e73b6d15bfaf8c17eb8e",
+      "date": "2023-02-01T01:43:18+00:00",
+      "author_login": "",
+      "author_name": "Tal Kol",
+      "message": "Update readme.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "91fdce140f19bc2851391324cb0698e366fe60d5",
+      "date": "2023-02-01T01:37:07+00:00",
+      "author_login": "",
+      "author_name": "Tal Kol",
+      "message": "Update readme.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "a346f507095230804ba5adf9a332883c14406844",
+      "date": "2023-02-01T01:23:21+03:00",
+      "author_login": "",
+      "author_name": "Naltox",
+      "message": "some docs",
+      "parent_count": 0
+    },
+    {
+      "sha": "763ae003f39a9ccb7dedcace93f8d3b89815dec8",
+      "date": "2023-01-31T21:40:53+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: code style",
+      "parent_count": 0
+    },
+    {
+      "sha": "4ad7c4eb77aec9b0ab3439fbf85c33dab85666f9",
+      "date": "2023-01-31T19:42:34+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "Merge branch 'main' of github.com:ton-community/tinfoil into main",
+      "parent_count": 0
+    },
+    {
+      "sha": "f341e003ccaea134281dbc35fe4cef687db93e08",
+      "date": "2023-01-31T19:42:24+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "release v0.0.1",
+      "parent_count": 0
+    },
+    {
+      "sha": "d78174c6576134eae19a8f60240cbf762373578a",
+      "date": "2023-01-31T18:37:11+03:00",
+      "author_login": "",
+      "author_name": "Naltox",
+      "message": "small changes",
+      "parent_count": 0
+    },
+    {
+      "sha": "5da0aeb7d7daf96835e5909597d50deae9d468e8",
+      "date": "2023-01-31T18:30:21+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: counter template and other stuff",
+      "parent_count": 0
+    },
+    {
+      "sha": "2ce773bee929454c1fe02349e016aa5f0418fbae",
+      "date": "2023-01-31T15:28:24+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: prettier",
+      "parent_count": 0
+    },
+    {
+      "sha": "21b1804180e6ad9873d1b07f5b02c9aa1179899e",
+      "date": "2023-01-31T15:28:24+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: rename to blueprint, update help",
+      "parent_count": 0
+    },
+    {
+      "sha": "329f9ae5aa9402b80ba132440ff8fc4bc0e8fff8",
+      "date": "2023-01-31T15:28:24+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: run, build, abstractions",
+      "parent_count": 0
+    },
+    {
+      "sha": "ffc82fac33f798d567b78d1cb13fa528e9d53729",
+      "date": "2023-01-31T15:28:24+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "feat: provider",
+      "parent_count": 0
+    },
+    {
+      "sha": "123b5f5980a81def71ae811d4b45423345491f71",
+      "date": "2023-01-24T18:55:35+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "chore: moved templates into separate files",
+      "parent_count": 0
+    },
+    {
+      "sha": "f385f295b56465d6e2c5f37549a0c5a819fd48e5",
+      "date": "2023-01-24T17:09:11+03:00",
+      "author_login": "",
+      "author_name": "krigga",
+      "message": "init",
+      "parent_count": 0
+    }
+  ],
+  "releases": [],
+  "commit_pages_loaded": 1,
+  "commit_page_limit_hit": false
+}

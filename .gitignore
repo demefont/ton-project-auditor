@@ -1,0 +1,59 @@
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+.envrc
+*.private
+
+# Python cache and test output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+*.egg-info/
+build/
+dist/
+.python-version
+
+# Frontend dependencies and local builds
+viewer_frontend/node_modules/
+viewer_frontend/dist/
+viewer_frontend/.vite/
+viewer_frontend/coverage/
+*.tsbuildinfo
+identity_validator/viewer_static/
+
+# Runtime output
+artifacts/
+logs/
+*.log
+*.pid
+
+# Temporary files
+.npm/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.tmp
+*.temp
+*.backup
+*backup*
+
+# Local virtual environments
+.venv/
+venv/

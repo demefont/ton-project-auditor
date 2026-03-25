@@ -1,0 +1,7 @@
+{
+  "id": "github_repo",
+  "name": "GitHub Repo Collector",
+  "kind": "collector",
+  "dependencies": [],
+  "description": "Loads GitHub repository metadata and README."
+}

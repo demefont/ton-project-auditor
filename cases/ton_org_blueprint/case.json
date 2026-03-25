@@ -1,0 +1,12 @@
+{
+  "case_id": "ton_org_blueprint",
+  "name": "TON Blueprint",
+  "github_repo": "ton-org/blueprint",
+  "telegram_handle": "tonbuild",
+  "project_url": "https://github.com/ton-org/blueprint",
+  "description": "Official all-in-one TON development tool for writing, testing and deploying smart contracts.",
+  "expected": {
+    "project_types_any_of": ["tooling_sdk"],
+    "requires_contract": false
+  }
+}

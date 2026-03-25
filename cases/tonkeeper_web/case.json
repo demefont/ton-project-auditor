@@ -1,0 +1,12 @@
+{
+  "case_id": "tonkeeper_web",
+  "name": "Tonkeeper Web",
+  "github_repo": "tonkeeper/tonkeeper-web",
+  "telegram_handle": "tonkeeper_news",
+  "project_url": "https://github.com/tonkeeper/tonkeeper-web",
+  "description": "Official non-custodial TON wallet for web and desktop.",
+  "expected": {
+    "project_types_any_of": ["wallet_app"],
+    "requires_contract": false
+  }
+}

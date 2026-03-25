@@ -1,0 +1,7 @@
+{
+  "id": "project_type",
+  "name": "Project Type Validator",
+  "kind": "validator",
+  "dependencies": ["github_repo", "github_tree"],
+  "description": "Classifies the project type using repository signals."
+}

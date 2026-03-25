@@ -1,0 +1,7 @@
+{
+  "id": "risk_validator",
+  "name": "Risk Validator",
+  "kind": "validator",
+  "dependencies": ["github_repo", "telegram_channel", "telegram_semantics", "project_type", "contract_validator", "claim_consistency", "github_activity", "identity_confirmation"],
+  "description": "Builds risk flags from deterministic signals."
+}

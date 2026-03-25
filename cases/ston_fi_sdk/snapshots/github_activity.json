@@ -1,0 +1,743 @@
+{
+  "commits": [
+    {
+      "sha": "446451f9d3310c0fa0883c26b3461edaf4e335a3",
+      "date": "2026-03-08T20:06:40+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "fix(demo-app): fix RouterInfo type re-export to the client via file with \"use server\" directive",
+      "parent_count": 0
+    },
+    {
+      "sha": "6c5a9b93616d379e5bc1310a865a9cdfc24b3c26",
+      "date": "2026-03-04T14:10:46+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "chore: upgrade packages",
+      "parent_count": 0
+    },
+    {
+      "sha": "40cc445f6f0e5a6d6ba424586811af1e4517f256",
+      "date": "2026-03-04T14:09:55+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "refactor(demo-app): update next config",
+      "parent_count": 0
+    },
+    {
+      "sha": "b5ad7209aa1e3c92c093760d75a4725cf9f7fb16",
+      "date": "2025-12-15T10:13:45+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "chore: update monorepo config files",
+      "parent_count": 0
+    },
+    {
+      "sha": "cd5aed5007141c791b9f12207fb632afa868032b",
+      "date": "2025-12-15T10:11:26+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "chore(demo-app): upgrade next-js to patch security vulnerability",
+      "parent_count": 0
+    },
+    {
+      "sha": "43440c21ec6c14a26984bf0afe9f324054624bd7",
+      "date": "2025-12-04T14:43:14+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "release(stake-sdk): v1.3.1",
+      "parent_count": 0
+    },
+    {
+      "sha": "81c6fc04e6aa8503ad0289fdb406a4efb6cb7ec7",
+      "date": "2025-12-03T19:21:21+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "chore(demo-app): install patch for RSC security vulnerability",
+      "parent_count": 0
+    },
+    {
+      "sha": "3987a6c7fbdef908bad781b98baa7e759014e330",
+      "date": "2025-11-19T18:25:04+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "refactor(demo-app): simplify swap & lp flows with the routerInfo from API simulation",
+      "parent_count": 0
+    },
+    {
+      "sha": "14576e597a9ad1ef40e93fbc0d5228fac2b816cc",
+      "date": "2025-11-13T11:26:25+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "release(sdk): v2.7.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "e56269c1f02abe81cc0d7eb06c0b878a2d2f6504",
+      "date": "2025-10-29T14:19:31+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "release(stake-sdk): v1.3.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "5d3991ad03a3dc1f4109cbd513fc781c3c0494fc",
+      "date": "2025-10-29T14:17:52+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "release(sdk): v2.6.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "504b95e707b500a01412beb970a04f13a9369b68",
+      "date": "2025-09-16T11:43:10+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: updated ston logo's",
+      "parent_count": 0
+    },
+    {
+      "sha": "c5a55d9beab1abb8a4a35a7ee038f51471f703b6",
+      "date": "2025-09-11T18:18:27+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feat(demo-app): staking page powered by data from API",
+      "parent_count": 0
+    },
+    {
+      "sha": "ad6a3eeafa74f2ee4b299d55978099cdf993af3b",
+      "date": "2025-08-29T12:18:01+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feat(demo-app): add liquidity refund flow",
+      "parent_count": 0
+    },
+    {
+      "sha": "03ac07c47bd7e7a0cbb72e1c4d80679d2bff839b",
+      "date": "2025-07-30T16:19:33+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: updated logo style in the root README",
+      "parent_count": 0
+    },
+    {
+      "sha": "56daa0f7e748b76b2c542fc388ec4d5bb2d892ee",
+      "date": "2025-07-03T13:44:39+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: updated root README file",
+      "parent_count": 0
+    },
+    {
+      "sha": "56506ae6bafd15eee0b73339515d0ab94286f5bb",
+      "date": "2025-07-02T19:02:06+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "release(stake-sdk): v1.2.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "6ee159e8f1beb0809bbda3ca2e46ffe7a53f8bfd",
+      "date": "2025-07-02T18:39:17+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "release(sdk): v2.5.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "2f2ff9d963fe35a7427bf008ee98d276af7475c3",
+      "date": "2025-06-25T14:29:11+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feat(demo-app): swap auto slippage tolerance",
+      "parent_count": 0
+    },
+    {
+      "sha": "524ab5ab9838642143ff24788aa228f4ba0bf40a",
+      "date": "2025-06-25T13:54:53+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "chore: rebuild lock-file",
+      "parent_count": 0
+    },
+    {
+      "sha": "48656a3f3a942417294ea1a04158f4f639dfd70e",
+      "date": "2025-06-23T17:49:13+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feat(demo-app): swap gas params from API simulation",
+      "parent_count": 0
+    },
+    {
+      "sha": "be80e59943a16cf6b6ff5dcddf09adfe881d6d04",
+      "date": "2025-06-12T14:49:53+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feat(demo-app): liquidity provision example",
+      "parent_count": 0
+    },
+    {
+      "sha": "293257ecdee5f0876c093f13ab211709371b1ce2",
+      "date": "2025-06-12T14:05:57+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "fix(demo-app): correct validUntil value for ton-connect sendTransaction method",
+      "parent_count": 0
+    },
+    {
+      "sha": "5d1f93d9b1d605325d32be526776a7da74c578e3",
+      "date": "2025-06-10T22:53:22+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "refactor(demo-app): update claim fee vault example",
+      "parent_count": 0
+    },
+    {
+      "sha": "3f0c4b425109a26d989853c91e265dc7b99ec7c7",
+      "date": "2025-06-09T17:50:53+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feature (demo-app): wallet vaults from Ston API instead of on-chain requests per pool",
+      "parent_count": 0
+    },
+    {
+      "sha": "6183468fa16c12fe2df40f966de630c9c57fbae7",
+      "date": "2025-06-09T17:48:26+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "chore: dependencies update & formatting",
+      "parent_count": 0
+    },
+    {
+      "sha": "370e6c5a78392ce10326651aa389b532ad352a6d",
+      "date": "2025-06-09T17:45:05+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.4.1",
+      "parent_count": 0
+    },
+    {
+      "sha": "447e15a3b9b9d6cc7a794d588bef468839061ac4",
+      "date": "2025-04-10T20:15:10+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.4.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "8f8cc82e81df1be92dd090c38fbd60d64398c212",
+      "date": "2025-03-13T11:11:27+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "update link to the SDK docs",
+      "parent_count": 0
+    },
+    {
+      "sha": "f43949365290a565faa44e311ff4ebcc0e6f8e13",
+      "date": "2025-03-13T11:10:05+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.3.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "039d8a0682f245758eeb6b97fcb86dcec099ce66",
+      "date": "2025-02-28T15:26:33+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.2.3",
+      "parent_count": 0
+    },
+    {
+      "sha": "3e7d6a0f4de317f43d06ef7bafb320ec4297f617",
+      "date": "2025-02-10T17:54:55+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.2.2",
+      "parent_count": 0
+    },
+    {
+      "sha": "1c8c6678858956f6d9a0e70b9f80628319dbe2ce",
+      "date": "2025-01-21T15:15:26+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "refactor (demo-app): input placeholders",
+      "parent_count": 0
+    },
+    {
+      "sha": "65170552fa76d691107f7fb9a6486d81969c36b3",
+      "date": "2025-01-21T15:14:33+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feature (demo-app): make swap ref wallet address configurable in the vault page",
+      "parent_count": 0
+    },
+    {
+      "sha": "3daf2af251c398a74857017647a6021fe6c8adaf",
+      "date": "2025-01-14T15:11:36+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "chore (demo-app): update @tonconnect/ui-react to latest version",
+      "parent_count": 0
+    },
+    {
+      "sha": "4f6a4ba51f1bf30c76054f713a70e386a7c25393",
+      "date": "2025-01-14T15:09:42+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "refactor (demo-app): simplify getSwapTxParams action",
+      "parent_count": 0
+    },
+    {
+      "sha": "e44220a4be533a72ddb5426c50321d9d20e52b4d",
+      "date": "2024-12-26T21:33:14+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "commit: feat (demo-app): withdraw fee from vault example",
+      "parent_count": 0
+    },
+    {
+      "sha": "caa7f9335524c0108e8076f3d81b7d89ff18eb56",
+      "date": "2024-12-26T15:41:19+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feat (demo-app): improved assets sorting",
+      "parent_count": 0
+    },
+    {
+      "sha": "2efcbd93eafa5038315b06266bc7ee732675446e",
+      "date": "2024-12-26T15:40:07+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "chore: update dev dependencies & scripts",
+      "parent_count": 0
+    },
+    {
+      "sha": "4abe97348e4e4ce96edf94e22beedceedce8594a",
+      "date": "2024-12-20T12:37:56+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feat (demo-app): add referral system to the swap",
+      "parent_count": 0
+    },
+    {
+      "sha": "aeb9e081af536beee317427f5364494128312d17",
+      "date": "2024-12-20T12:37:19+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "chore: update monorepo scripts & dependencies",
+      "parent_count": 0
+    },
+    {
+      "sha": "95234e113e21ce5af2ac2b30c1630b26dfd9a78b",
+      "date": "2024-12-12T15:34:46+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "feat (demo-app): add Next.js demo app with SDK integration",
+      "parent_count": 0
+    },
+    {
+      "sha": "cffc5af9fe48372aa33d25f9e689ebc2fd13c759",
+      "date": "2024-12-12T15:27:14+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.2.1",
+      "parent_count": 0
+    },
+    {
+      "sha": "d73bf2f9f67ac6d704fea1466a0df03667e0e853",
+      "date": "2024-12-10T13:43:39+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.2.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "c06acabb34de7b2453bc9505293788d4dcb8ce83",
+      "date": "2024-12-04T11:37:45+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.1.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "786ece758794bd5c575db8b38f5e5de19f43f0d1",
+      "date": "2024-11-25T18:38:15+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.0.1",
+      "parent_count": 0
+    },
+    {
+      "sha": "4e3a1f2770d962e5a6724b9a16186a892a50c241",
+      "date": "2024-11-25T18:10:05+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.0.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "7f8fee75c3e355878f3bdde63f28bbf9dc1b33c6",
+      "date": "2024-11-25T18:00:32+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.0.0-rc.11",
+      "parent_count": 0
+    },
+    {
+      "sha": "c6a0c7b7e4a58ec8a450fa2738e24fec0fd4ebbf",
+      "date": "2024-11-19T18:06:18+00:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.0.0-rc.10",
+      "parent_count": 0
+    },
+    {
+      "sha": "34a6751a77e0e9cff67542bed668610500705650",
+      "date": "2024-10-22T14:38:54+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.0.0-rc.9",
+      "parent_count": 0
+    },
+    {
+      "sha": "e321efef383c6e0830bba620d240e2e00730a5d8",
+      "date": "2024-10-17T12:56:32+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.0.0-rc.8",
+      "parent_count": 0
+    },
+    {
+      "sha": "6d9f46bd5b8f2a54956c85088cc2d4a09ae623f0",
+      "date": "2024-10-14T21:42:20+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "core: regenerate pnpm-lock file",
+      "parent_count": 0
+    },
+    {
+      "sha": "8c1970a8f5c33defb19fd5e88556ea2f76a3de29",
+      "date": "2024-10-09T16:08:32+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "v2.0.0-rc.7",
+      "parent_count": 0
+    },
+    {
+      "sha": "e06cfe8d4d7ab525beecfe89dac42b57eab1cd88",
+      "date": "2024-09-27T15:44:44+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v2.0.0-rc.6",
+      "parent_count": 0
+    },
+    {
+      "sha": "88565ed4eeab05a07cf26d148f4076c4e6b403aa",
+      "date": "2024-09-20T18:28:29+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v2.0.0-rc.5",
+      "parent_count": 0
+    },
+    {
+      "sha": "6c1bbaa25f49c498d9d79d0c4e354cfc31e66df5",
+      "date": "2024-09-20T12:41:02+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "Merge branch 'release/v1'",
+      "parent_count": 0
+    },
+    {
+      "sha": "0e090e8598157c0d68ac13a6df1bd77ebb6b95c0",
+      "date": "2024-09-20T12:17:34+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v1.2.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "01334fb42a7d4a7f87db50897c4a12ed73170ce0",
+      "date": "2024-08-26T17:42:22+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v2.0.0-rc.3",
+      "parent_count": 0
+    },
+    {
+      "sha": "b00ebdcdb29969b74a16191c131d5d07f355754f",
+      "date": "2024-08-26T17:28:38+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "Merge branch 'release/v1'",
+      "parent_count": 0
+    },
+    {
+      "sha": "b67d27c2439fb917ff901f03b7681dad6ca0dd42",
+      "date": "2024-08-26T17:23:08+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v1.1.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "d86be1e431c7971c88062f6b5b9d03ace5d8c07b",
+      "date": "2024-07-30T17:51:44+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v2.0.0-rc.2",
+      "parent_count": 0
+    },
+    {
+      "sha": "54aad58c64cd3d234801cf31a961e4bbfe0a7112",
+      "date": "2024-07-30T17:48:40+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "fix: correct validation for custom referralValue out of range in BaseRouterV2",
+      "parent_count": 0
+    },
+    {
+      "sha": "a4c5f225d8a9d3f077426f2f5dc5c04cc4527392",
+      "date": "2024-07-30T17:45:40+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "Merge branch 'release/v1'",
+      "parent_count": 0
+    },
+    {
+      "sha": "c6e16c59b3ab746b12491cbefab3325f25919739",
+      "date": "2024-07-30T17:39:57+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v1.0.2",
+      "parent_count": 0
+    },
+    {
+      "sha": "ee520e036a3afbbf8715bc05c4b9eb4ac95a7cbc",
+      "date": "2024-07-30T17:39:57+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "core: allow @ton/ton:14 as peer dependency",
+      "parent_count": 0
+    },
+    {
+      "sha": "818e0fbf86d9b8b0f126fda6ff4e8cebd814b7d4",
+      "date": "2024-07-30T17:39:57+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "fix: handle null dictionaries in farm v3 contracts",
+      "parent_count": 0
+    },
+    {
+      "sha": "2a45345e30b7453dc2fddf9f3f2ebc0817c99708",
+      "date": "2024-07-24T19:23:55+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v1.0.1",
+      "parent_count": 0
+    },
+    {
+      "sha": "161bf8fb46cccefb5956a6eb1d1a13bf98e7790a",
+      "date": "2024-07-24T19:20:22+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "fix: correct handle of 0 value for farm NFT v3 accruedPerUnitNanorewards farming data field",
+      "parent_count": 0
+    },
+    {
+      "sha": "99ba93a8186a15e9d8f588f29e11fb2c93d93d67",
+      "date": "2024-06-28T18:16:59+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v2.0.0-rc.1",
+      "parent_count": 0
+    },
+    {
+      "sha": "c84ed86c9c6d46ba03c69ac6c14e8a696bc4ab39",
+      "date": "2024-06-21T19:41:22+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: update DOCS guide links in README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "6821124b0c7e61c85671864e98e467c99617a4ab",
+      "date": "2024-06-21T19:08:27+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: update README.md with installation instructions for release candidate version",
+      "parent_count": 0
+    },
+    {
+      "sha": "3881bd9ee7eb2c2cf46777fd14c49b3811557e8f",
+      "date": "2024-06-21T18:55:45+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v2.0.0-rc.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "d5dea04f3c82f5fe6237c5db5e30d59a53020abe",
+      "date": "2024-06-19T18:21:12+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: add link to the v0.5 to v1 migration guide to the CHANGELOG",
+      "parent_count": 0
+    },
+    {
+      "sha": "5823eb60755d1e29aaf356514f430105153543e2",
+      "date": "2024-06-19T18:06:14+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v1.0.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "2b94006a3e84d4df4ef709d54df7a7440c98c1ac",
+      "date": "2024-05-29T16:52:34+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: update SDK documentation link in README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "8371530883b08708239857f709dbb87f4b7b3fa2",
+      "date": "2024-05-13T16:06:15+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v0.5.3",
+      "parent_count": 0
+    },
+    {
+      "sha": "f2a1f5e85384a5f0201915541e0856a312f5e38f",
+      "date": "2024-05-08T19:08:37+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v0.5.2",
+      "parent_count": 0
+    },
+    {
+      "sha": "679f66fbf9a0ef6da65dae1e006d17a0117f2785",
+      "date": "2024-04-29T16:59:02+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v0.5.1",
+      "parent_count": 0
+    },
+    {
+      "sha": "56e6607163cc54b596162d51ec34aa18d14cebdc",
+      "date": "2024-04-26T19:16:51+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: add link to the migration guide in CHANGELOG",
+      "parent_count": 0
+    },
+    {
+      "sha": "9588394edb8bacea096fdae98dd0ea9d090bf747",
+      "date": "2024-04-26T15:04:48+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: update 0.5.0 release Added section",
+      "parent_count": 0
+    },
+    {
+      "sha": "0d619a0df23d50b1c33cd978a72fe06aad9c569d",
+      "date": "2024-04-26T14:57:02+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v0.5.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "7344a4a082b31dec429024b04ea09f251a7496e1",
+      "date": "2024-04-17T19:40:08+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "core(security): update packages with security issues",
+      "parent_count": 0
+    },
+    {
+      "sha": "b754369b0f4f9ed4e8a68407580d135da4135e07",
+      "date": "2023-10-26T17:09:38+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v0.4.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "cab85d72805febd67a9ffb052322090937565400",
+      "date": "2023-09-04T16:06:52+04:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "docs: replace TonWeb toNano util usage with BN in examples",
+      "parent_count": 0
+    },
+    {
+      "sha": "0d5abffeffdf905dc83a41b808f57fa631cb2b4c",
+      "date": "2023-08-28T20:12:10+04:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v0.3.4",
+      "parent_count": 0
+    },
+    {
+      "sha": "45a2f5222ada365d1495c92c4bc0f1f716779838",
+      "date": "2023-04-21T16:34:25+04:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v0.3.1",
+      "parent_count": 0
+    },
+    {
+      "sha": "8fe58f1e00978bd307fb27249ff88c901b04f290",
+      "date": "2023-02-28T18:07:02+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v0.3.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "770a2390831b7df8d397933300771c267ed86890",
+      "date": "2023-02-10T18:06:33+01:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "SDK v0.2.0",
+      "parent_count": 0
+    },
+    {
+      "sha": "cb76afe9574b8697bff27e393eb1288ef48433f1",
+      "date": "2023-01-14T19:21:45+02:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "Update README.md",
+      "parent_count": 0
+    },
+    {
+      "sha": "0885722ed15578d56c8d4d19e7364ef7ca65c270",
+      "date": "2023-01-12T20:35:19+04:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "add SDK usage examples",
+      "parent_count": 0
+    },
+    {
+      "sha": "e7ccc66a0bc36e7adbcb7824622d08e86d0bdbb6",
+      "date": "2023-01-12T20:35:09+04:00",
+      "author_login": "",
+      "author_name": "Pavel Rakhmanov",
+      "message": "add SDK source",
+      "parent_count": 0
+    },
+    {
+      "sha": "fa224d786090deac25222852bb5bad13559863be",
+      "date": "2023-01-12T13:49:01+03:00",
+      "author_login": "",
+      "author_name": "ixvick",
+      "message": "Initial commit",
+      "parent_count": 0
+    }
+  ],
+  "releases": [],
+  "commit_pages_loaded": 1,
+  "commit_page_limit_hit": false
+}

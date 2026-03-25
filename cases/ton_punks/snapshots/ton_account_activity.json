@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "summary": "Latest on-chain transaction is 275 days old.",
+  "address": "EQAo92DYMokxghKcq-CkCGSk_MgXY5Fo1SPW20gkvZl75iCN",
+  "last_tx_at": "2025-06-22T08:07:32Z",
+  "last_tx_age_days": 275,
+  "tx_count_7d": 0,
+  "tx_count_30d": 0,
+  "tx_count_30d_limit_hit": false,
+  "sample_transactions": [
+    {
+      "hash": "Z2nrxpPfvpgkSkoBkxqIKmFwOgt43mKvzlfe8TdXomY=",
+      "lt": "58591939000001",
+      "published_at": "2025-06-22T08:07:32Z",
+      "timestamp": 1750579652
+    }
+  ]
+}
